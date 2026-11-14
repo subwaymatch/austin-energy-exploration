@@ -19,7 +19,7 @@ repository; `scripts/build_combined.py` rebuilds everything here from them.
 | `ae_pcard_combined.csv` | 151,344 | **The combined file.** Every released row from all three sheets in one set of columns. One row = one accounting line. |
 | `ae_pcard_transactions.csv` | 116,842 | Derived from the combined file: one row per card charge, newer system only. Use this for anything that counts or sums transactions. |
 | `data_quality_issues.csv` | 34 | Every issue found, how many rows it touches, and what was done. |
-| `cardholder_name_map.csv` | 792 | Released spelling of each cardholder name and the standardized name used here. |
+| `cardholder_name_map.csv` | 753 | Released spelling of each cardholder name and the standardized name used here. |
 
 All files are UTF-8 CSV with a header row. Blank means not available. Read code columns (`gl_*`, `mcc`) as text.
 
