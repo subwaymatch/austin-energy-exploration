@@ -1,0 +1,6893 @@
+{
+ "subject": "Ybarra, Mark Anthony",
+ "period": [
+  "2018-01-01",
+  "2023-09-30"
+ ],
+ "min_n": 100,
+ "limit": 3000.0,
+ "overview": {
+  "works_transactions": 116842,
+  "works_purchases": 113720,
+  "works_credits": 3122,
+  "works_net": 63908807.050000004,
+  "works_cardholders": 479,
+  "period_transactions": 76959,
+  "period_cardholders": 369,
+  "period_spend": 41672376.55,
+  "subject_purchases": 973,
+  "subject_spend": 1335129.61,
+  "subject_credits": 7,
+  "subject_net": 1334295.78,
+  "subject_first": "2018-01-02",
+  "subject_last": "2023-09-01",
+  "subject_vendors": 152
+ },
+ "limit_evidence": {
+  "2018-2022": {
+   "edges": [
+    1000,
+    1100,
+    1200,
+    1300,
+    1400,
+    1500,
+    1600,
+    1700,
+    1800,
+    1900,
+    2000,
+    2100,
+    2200,
+    2300,
+    2400,
+    2500,
+    2600,
+    2700,
+    2800,
+    2900,
+    3000,
+    3100,
+    3200,
+    3300,
+    3400,
+    3500,
+    3600,
+    3700,
+    3800,
+    3900,
+    4000,
+    4100,
+    4200,
+    4300,
+    4400,
+    4500,
+    4600,
+    4700,
+    4800,
+    4900,
+    5000,
+    5100,
+    5200,
+    5300,
+    5400,
+    5500,
+    5600,
+    5700,
+    5800,
+    5900,
+    6000
+   ],
+   "counts": [
+    902,
+    688,
+    712,
+    565,
+    515,
+    597,
+    427,
+    482,
+    447,
+    424,
+    405,
+    330,
+    483,
+    346,
+    406,
+    408,
+    372,
+    450,
+    651,
+    1285,
+    236,
+    7,
+    1,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    2,
+    1,
+    3,
+    2,
+    6,
+    2,
+    5,
+    1,
+    1,
+    1,
+    8,
+    2,
+    1,
+    0,
+    0,
+    2,
+    3,
+    1,
+    0,
+    0,
+    35
+   ],
+   "n": 65468
+  },
+  "2024-2026": {
+   "edges": [
+    1000,
+    1100,
+    1200,
+    1300,
+    1400,
+    1500,
+    1600,
+    1700,
+    1800,
+    1900,
+    2000,
+    2100,
+    2200,
+    2300,
+    2400,
+    2500,
+    2600,
+    2700,
+    2800,
+    2900,
+    3000,
+    3100,
+    3200,
+    3300,
+    3400,
+    3500,
+    3600,
+    3700,
+    3800,
+    3900,
+    4000,
+    4100,
+    4200,
+    4300,
+    4400,
+    4500,
+    4600,
+    4700,
+    4800,
+    4900,
+    5000,
+    5100,
+    5200,
+    5300,
+    5400,
+    5500,
+    5600,
+    5700,
+    5800,
+    5900,
+    6000
+   ],
+   "counts": [
+    479,
+    388,
+    419,
+    314,
+    285,
+    319,
+    263,
+    278,
+    261,
+    200,
+    209,
+    212,
+    280,
+    178,
+    173,
+    184,
+    168,
+    153,
+    171,
+    431,
+    107,
+    36,
+    27,
+    27,
+    25,
+    68,
+    30,
+    37,
+    32,
+    26,
+    28,
+    23,
+    22,
+    29,
+    31,
+    39,
+    24,
+    39,
+    76,
+    145,
+    20,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    2,
+    10
+   ],
+   "n": 35750
+  },
+  "below_3000": 1516,
+  "above_3000": 5,
+  "share_over_3000_by_year": {
+   "2018": 0.0019,
+   "2019": 0.0007,
+   "2020": 0.0024,
+   "2021": 0.0015,
+   "2022": 0.0046,
+   "2023": 0.017,
+   "2024": 0.0243,
+   "2025": 0.025,
+   "2026": 0.0247
+  }
+ },
+ "benford_pops": {
+  "Ybarra": {
+   "n": 973,
+   "fd": [
+    0.20144,
+    0.50257,
+    0.0853,
+    0.04522,
+    0.05036,
+    0.03803,
+    0.02672,
+    0.02569,
+    0.02467
+   ],
+   "fd_counts": [
+    196,
+    489,
+    83,
+    44,
+    49,
+    37,
+    26,
+    25,
+    24
+   ],
+   "fd_mad": 0.07255069200384198,
+   "fd_chi2": 720.6326913340847,
+   "fd_p": 2.582979221956161e-150,
+   "f2": [
+    0.02672,
+    0.02261,
+    0.02467,
+    0.01644,
+    0.01644,
+    0.02158,
+    0.01644,
+    0.01747,
+    0.01953,
+    0.01953,
+    0.01336,
+    0.02055,
+    0.01542,
+    0.02467,
+    0.01336,
+    0.02364,
+    0.02878,
+    0.05653,
+    0.15108,
+    0.15519,
+    0.01131,
+    0.00925,
+    0.00719,
+    0.00719,
+    0.01028,
+    0.00411,
+    0.00719,
+    0.00719,
+    0.00925,
+    0.01233,
+    0.00308,
+    0.00617,
+    0.00411,
+    0.00411,
+    0.00514,
+    0.00822,
+    0.00206,
+    0.00103,
+    0.00719,
+    0.00411,
+    0.00719,
+    0.00514,
+    0.00308,
+    0.00617,
+    0.00617,
+    0.00514,
+    0.00103,
+    0.00514,
+    0.00617,
+    0.00514,
+    0.00514,
+    0.00206,
+    0.00925,
+    0.00206,
+    0.00103,
+    0.00822,
+    0.00308,
+    0.00103,
+    0.00206,
+    0.00411,
+    0.00308,
+    0.00411,
+    0.00103,
+    0.00514,
+    0.00206,
+    0.00103,
+    0.00308,
+    0.00308,
+    0.00206,
+    0.00206,
+    0.00206,
+    0.00103,
+    0.00411,
+    0.00308,
+    0.00411,
+    0.00206,
+    0.00411,
+    0.00308,
+    0.0,
+    0.00206,
+    0.00206,
+    0.0,
+    0.00103,
+    0.00103,
+    0.00206,
+    0.00617,
+    0.00411,
+    0.00206,
+    0.00103,
+    0.00514
+   ],
+   "f2_mad": 0.007781918437886268
+  },
+  "Facility Management peers": {
+   "n": 9984,
+   "fd": [
+    0.30198,
+    0.26512,
+    0.08834,
+    0.09195,
+    0.0639,
+    0.05519,
+    0.04718,
+    0.04437,
+    0.04197
+   ],
+   "fd_counts": [
+    3015,
+    2647,
+    882,
+    918,
+    638,
+    551,
+    471,
+    443,
+    419
+   ],
+   "fd_mad": 0.019996914905602084,
+   "fd_chi2": 641.3427329963771,
+   "fd_p": 3.0081092462518587e-133,
+   "f2": [
+    0.04527,
+    0.03305,
+    0.03996,
+    0.02815,
+    0.02774,
+    0.02915,
+    0.02654,
+    0.02224,
+    0.02414,
+    0.02574,
+    0.02264,
+    0.02995,
+    0.02153,
+    0.02063,
+    0.02103,
+    0.02053,
+    0.02003,
+    0.02444,
+    0.03285,
+    0.05148,
+    0.01422,
+    0.00851,
+    0.00931,
+    0.00801,
+    0.00751,
+    0.00942,
+    0.00631,
+    0.00831,
+    0.00721,
+    0.00952,
+    0.01002,
+    0.00691,
+    0.00992,
+    0.00671,
+    0.01102,
+    0.00821,
+    0.01392,
+    0.00821,
+    0.01022,
+    0.00681,
+    0.01352,
+    0.00551,
+    0.00591,
+    0.00461,
+    0.00471,
+    0.00611,
+    0.00501,
+    0.00451,
+    0.00611,
+    0.00791,
+    0.00581,
+    0.00451,
+    0.00811,
+    0.00541,
+    0.00701,
+    0.00521,
+    0.00511,
+    0.00621,
+    0.00371,
+    0.00411,
+    0.00501,
+    0.00441,
+    0.00671,
+    0.00421,
+    0.00431,
+    0.00681,
+    0.00411,
+    0.00471,
+    0.00331,
+    0.00361,
+    0.00731,
+    0.00441,
+    0.00361,
+    0.00341,
+    0.00461,
+    0.00611,
+    0.00341,
+    0.00351,
+    0.0029,
+    0.00511,
+    0.00561,
+    0.00351,
+    0.00411,
+    0.003,
+    0.00331,
+    0.00401,
+    0.0028,
+    0.00431,
+    0.00451,
+    0.00681
+   ],
+   "f2_mad": 0.0027996105223461044
+  },
+  "All other cardholders": {
+   "n": 73990,
+   "fd": [
+    0.30372,
+    0.22091,
+    0.113,
+    0.08643,
+    0.07227,
+    0.06014,
+    0.05267,
+    0.04691,
+    0.04395
+   ],
+   "fd_counts": [
+    22472,
+    16345,
+    8361,
+    6395,
+    5347,
+    4450,
+    3897,
+    3471,
+    3252
+   ],
+   "fd_mad": 0.010556376577291755,
+   "fd_chi2": 1177.2291452265288,
+   "fd_p": 7.97069652426732e-249,
+   "f2": [
+    0.04418,
+    0.03367,
+    0.03528,
+    0.02984,
+    0.02881,
+    0.03263,
+    0.02557,
+    0.02468,
+    0.02367,
+    0.0254,
+    0.02433,
+    0.02106,
+    0.02288,
+    0.01843,
+    0.02212,
+    0.02312,
+    0.01638,
+    0.01921,
+    0.01966,
+    0.03371,
+    0.01983,
+    0.01046,
+    0.0107,
+    0.0093,
+    0.01008,
+    0.01231,
+    0.00876,
+    0.00969,
+    0.00803,
+    0.01384,
+    0.01604,
+    0.00666,
+    0.00858,
+    0.00733,
+    0.00847,
+    0.00958,
+    0.00742,
+    0.00728,
+    0.00684,
+    0.00822,
+    0.0131,
+    0.00589,
+    0.00662,
+    0.00595,
+    0.00672,
+    0.00785,
+    0.00592,
+    0.00622,
+    0.00546,
+    0.00854,
+    0.01041,
+    0.00485,
+    0.00608,
+    0.00503,
+    0.00595,
+    0.00664,
+    0.00469,
+    0.00526,
+    0.00462,
+    0.00662,
+    0.006,
+    0.00418,
+    0.00565,
+    0.00412,
+    0.00474,
+    0.00874,
+    0.00481,
+    0.00454,
+    0.0037,
+    0.00618,
+    0.00638,
+    0.00457,
+    0.00443,
+    0.00368,
+    0.0046,
+    0.00549,
+    0.00369,
+    0.00455,
+    0.00366,
+    0.00587,
+    0.00595,
+    0.00349,
+    0.00314,
+    0.00316,
+    0.00369,
+    0.00455,
+    0.00374,
+    0.0043,
+    0.00392,
+    0.00801
+   ],
+   "f2_mad": 0.002005131668216183
+  },
+  "All cardholders, Oct 2023-Sep 2026": {
+   "n": 38757,
+   "fd": [
+    0.29917,
+    0.20783,
+    0.11453,
+    0.10037,
+    0.07694,
+    0.0594,
+    0.0546,
+    0.04389,
+    0.04327
+   ],
+   "fd_counts": [
+    11595,
+    8055,
+    4439,
+    3890,
+    2982,
+    2302,
+    2116,
+    1701,
+    1677
+   ],
+   "fd_mad": 0.007822470484905777,
+   "fd_chi2": 348.9612946838865,
+   "fd_p": 1.5086780183815918e-70,
+   "f2": [
+    0.04105,
+    0.03362,
+    0.03264,
+    0.02959,
+    0.02812,
+    0.03285,
+    0.025,
+    0.02686,
+    0.02467,
+    0.02477,
+    0.02394,
+    0.02307,
+    0.02237,
+    0.0201,
+    0.01935,
+    0.02265,
+    0.01767,
+    0.01703,
+    0.01515,
+    0.0265,
+    0.01667,
+    0.01024,
+    0.01055,
+    0.01048,
+    0.01037,
+    0.01391,
+    0.01045,
+    0.01053,
+    0.00885,
+    0.01249,
+    0.01177,
+    0.00833,
+    0.00872,
+    0.0081,
+    0.0138,
+    0.0104,
+    0.00715,
+    0.00911,
+    0.00893,
+    0.01406,
+    0.01819,
+    0.0065,
+    0.00673,
+    0.00532,
+    0.00668,
+    0.008,
+    0.00658,
+    0.00544,
+    0.00555,
+    0.00795,
+    0.00929,
+    0.00599,
+    0.00565,
+    0.00444,
+    0.00604,
+    0.00655,
+    0.00501,
+    0.00521,
+    0.00532,
+    0.00591,
+    0.00668,
+    0.00467,
+    0.00475,
+    0.00382,
+    0.0048,
+    0.00931,
+    0.00485,
+    0.00387,
+    0.00495,
+    0.00689,
+    0.00655,
+    0.00408,
+    0.00359,
+    0.00341,
+    0.00405,
+    0.00575,
+    0.00377,
+    0.004,
+    0.00338,
+    0.00532,
+    0.00557,
+    0.00382,
+    0.00333,
+    0.00328,
+    0.00364,
+    0.00441,
+    0.00372,
+    0.00439,
+    0.00338,
+    0.00774
+   ],
+   "f2_mad": 0.0018592272665399485
+  },
+  "Legacy system, FY2013-FY2018 (accounting lines)": {
+   "n": 30038,
+   "fd": [
+    0.30362,
+    0.19975,
+    0.11276,
+    0.08862,
+    0.07387,
+    0.06718,
+    0.05843,
+    0.04771,
+    0.04807
+   ],
+   "fd_counts": [
+    9120,
+    6000,
+    3387,
+    2662,
+    2219,
+    2018,
+    1755,
+    1433,
+    1444
+   ],
+   "fd_mad": 0.0064944291233260554,
+   "fd_chi2": 174.39959230806406,
+   "fd_p": 1.541806659074394e-33,
+   "f2": [
+    0.04088,
+    0.03419,
+    0.03539,
+    0.03266,
+    0.02983,
+    0.03023,
+    0.0268,
+    0.02543,
+    0.0235,
+    0.0247,
+    0.02234,
+    0.02064,
+    0.02287,
+    0.01987,
+    0.024,
+    0.01974,
+    0.01548,
+    0.01811,
+    0.01531,
+    0.02137,
+    0.01695,
+    0.01155,
+    0.01195,
+    0.01032,
+    0.00952,
+    0.01082,
+    0.01055,
+    0.01109,
+    0.00929,
+    0.01072,
+    0.01172,
+    0.00716,
+    0.00992,
+    0.00762,
+    0.00919,
+    0.01095,
+    0.00909,
+    0.00682,
+    0.00692,
+    0.00922,
+    0.01052,
+    0.00656,
+    0.00756,
+    0.00589,
+    0.00786,
+    0.00726,
+    0.00659,
+    0.00809,
+    0.00616,
+    0.00739,
+    0.01092,
+    0.00489,
+    0.00653,
+    0.00672,
+    0.00699,
+    0.00759,
+    0.00623,
+    0.00489,
+    0.00469,
+    0.00772,
+    0.00636,
+    0.00456,
+    0.00646,
+    0.00489,
+    0.00469,
+    0.00932,
+    0.00556,
+    0.00443,
+    0.00506,
+    0.00709,
+    0.00686,
+    0.00443,
+    0.00509,
+    0.00376,
+    0.00483,
+    0.00633,
+    0.00376,
+    0.0039,
+    0.00486,
+    0.0039,
+    0.00712,
+    0.00346,
+    0.00429,
+    0.00513,
+    0.0034,
+    0.00436,
+    0.00439,
+    0.00473,
+    0.0036,
+    0.00759
+   ],
+   "f2_mad": 0.0013513144650585693
+  }
+ },
+ "benford_expected": {
+  "fd": [
+   0.30103,
+   0.17609,
+   0.12494,
+   0.09691,
+   0.07918,
+   0.06695,
+   0.05799,
+   0.05115,
+   0.04576
+  ],
+  "f2": [
+   0.04139,
+   0.03779,
+   0.03476,
+   0.03218,
+   0.02996,
+   0.02803,
+   0.02633,
+   0.02482,
+   0.02348,
+   0.02228,
+   0.02119,
+   0.0202,
+   0.01931,
+   0.01848,
+   0.01773,
+   0.01703,
+   0.01639,
+   0.01579,
+   0.01524,
+   0.01472,
+   0.01424,
+   0.01379,
+   0.01336,
+   0.01296,
+   0.01259,
+   0.01223,
+   0.0119,
+   0.01158,
+   0.01128,
+   0.011,
+   0.01072,
+   0.01047,
+   0.01022,
+   0.00998,
+   0.00976,
+   0.00955,
+   0.00934,
+   0.00914,
+   0.00895,
+   0.00877,
+   0.0086,
+   0.00843,
+   0.00827,
+   0.00812,
+   0.00797,
+   0.00783,
+   0.00769,
+   0.00755,
+   0.00742,
+   0.0073,
+   0.00718,
+   0.00706,
+   0.00695,
+   0.00684,
+   0.00673,
+   0.00663,
+   0.00653,
+   0.00643,
+   0.00634,
+   0.00625,
+   0.00616,
+   0.00607,
+   0.00599,
+   0.00591,
+   0.00583,
+   0.00575,
+   0.00568,
+   0.0056,
+   0.00553,
+   0.00546,
+   0.0054,
+   0.00533,
+   0.00526,
+   0.0052,
+   0.00514,
+   0.00508,
+   0.00502,
+   0.00496,
+   0.00491,
+   0.00485,
+   0.0048,
+   0.00475,
+   0.0047,
+   0.00464,
+   0.0046,
+   0.00455,
+   0.0045,
+   0.00445,
+   0.00441,
+   0.00436
+  ]
+ },
+ "subject_f2_top": [
+  {
+   "digits": 29,
+   "observed": 151,
+   "expected": 14.325728886547306,
+   "z": 36.37887685144393
+  },
+  {
+   "digits": 28,
+   "observed": 147,
+   "expected": 14.82848745970501,
+   "z": 34.587902468076706
+  },
+  {
+   "digits": 27,
+   "observed": 55,
+   "expected": 15.367821969284625,
+   "z": 10.19057840092354
+  },
+  {
+   "digits": 26,
+   "observed": 28,
+   "expected": 15.94787495108881,
+   "z": 3.042992223308632
+  },
+  {
+   "digits": 25,
+   "observed": 23,
+   "expected": 16.5734391377133,
+   "z": 1.5922194027071996
+  },
+  {
+   "digits": 23,
+   "observed": 24,
+   "expected": 17.984353740274777,
+   "z": 1.4318121683000458
+  }
+ ],
+ "eligible": 170,
+ "eligible_facility": 16,
+ "tests": [
+  {
+   "key": "total_spend",
+   "label": "Largest total spending (naive baseline)",
+   "metric": "spend",
+   "rank": 5,
+   "rank_facility": 2,
+   "value": 1335129.61,
+   "median": 115876.53,
+   "p95": 779779.6414999989,
+   "max_other": 3489026.44
+  },
+  {
+   "key": "benford_fd",
+   "label": "Benford first digit (MAD)",
+   "metric": "fd_mad",
+   "rank": 5,
+   "rank_facility": 1,
+   "value": 0.07255069200384198,
+   "median": 0.0253418924399712,
+   "p95": 0.05850398927259652,
+   "max_other": 0.10156188366810093
+  },
+  {
+   "key": "benford_fd_z",
+   "label": "Benford first digit, size-adjusted",
+   "metric": "fd_mad_z_benford",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 31.520696104501237,
+   "median": 2.809139178429426,
+   "p95": 13.047536455292368,
+   "max_other": 19.534986088961766
+  },
+  {
+   "key": "benford_f2",
+   "label": "Benford first two digits (MAD)",
+   "metric": "f2_mad",
+   "rank": 53,
+   "rank_facility": 2,
+   "value": 0.007781918437886268,
+   "median": 0.006627237090212977,
+   "p95": 0.011548939063966833,
+   "max_other": 0.016172925574506777
+  },
+  {
+   "key": "benford_f2_z",
+   "label": "Benford first two digits, size-adjusted",
+   "metric": "f2_mad_z",
+   "rank": 4,
+   "rank_facility": 1,
+   "value": 24.319786491154336,
+   "median": 3.54849354576931,
+   "p95": 15.807333648599483,
+   "max_other": 28.24579017283259
+  },
+  {
+   "key": "near_limit",
+   "label": "Just under the purchase limit (count at 90-100% of $3,000)",
+   "metric": "near_limit_n",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 332.0,
+   "median": 3.0,
+   "p95": 89.69999999999976,
+   "max_other": 307.0
+  },
+  {
+   "key": "near_limit_share",
+   "label": "Just under the purchase limit (share of purchases)",
+   "metric": "near_limit_share",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 0.34121274409044194,
+   "median": 0.011380929253683017,
+   "p95": 0.11362356432635785,
+   "max_other": 0.21212121212121213
+  },
+  {
+   "key": "whole_dollar",
+   "label": "Whole-dollar amounts (share of purchases >= $100)",
+   "metric": "whole_dollar_share",
+   "rank": 39,
+   "rank_facility": 2,
+   "value": 0.5504807692307693,
+   "median": 0.3441209328306103,
+   "p95": 0.7226923076923076,
+   "max_other": 0.9257425742574258
+  },
+  {
+   "key": "facilitator",
+   "label": "Paid through PayPal / Square (dollars)",
+   "metric": "fac_dollars",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 1026626.98,
+   "median": 4101.505,
+   "p95": 107727.99699999987,
+   "max_other": 474509.05
+  },
+  {
+   "key": "sole_vendor",
+   "label": "Payees no other cardholder uses (dollars)",
+   "metric": "sole_vendor_dollars",
+   "rank": 2,
+   "rank_facility": 2,
+   "value": 96058.34,
+   "median": 1839.755,
+   "p95": 31781.241999999987,
+   "max_other": 123988.49
+  },
+  {
+   "key": "split",
+   "label": "Split purchases: same payee within 7 days, together over the limit",
+   "metric": "split_pairs",
+   "rank": 17,
+   "rank_facility": 7,
+   "value": 21.0,
+   "median": 2.0,
+   "p95": 57.749999999999915,
+   "max_other": 565.0
+  },
+  {
+   "key": "stacked",
+   "label": "Days with two or more near-limit purchases",
+   "metric": "stacked_days",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 65.0,
+   "median": 0.0,
+   "p95": 8.549999999999983,
+   "max_other": 51.0
+  },
+  {
+   "key": "weekend",
+   "label": "Weekend purchases (dollars)",
+   "metric": "weekend_dollars",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 239259.06,
+   "median": 4832.715,
+   "p95": 64166.97199999993,
+   "max_other": 198584.62
+  },
+  {
+   "key": "repeat",
+   "label": "Repeated identical amounts (share at five most common)",
+   "metric": "repeat_amount_share",
+   "rank": 43,
+   "rank_facility": 3,
+   "value": 0.20793269230769232,
+   "median": 0.11099407269870742,
+   "p95": 0.4424179260031265,
+   "max_other": 0.8366336633663366
+  },
+  {
+   "key": "mismatch",
+   "label": "Merchant category does not fit the accounting code (dollars)",
+   "metric": "mismatch_dollars",
+   "rank": 26,
+   "rank_facility": 9,
+   "value": 71566.61,
+   "median": 14356.77,
+   "p95": 132660.2369999999,
+   "max_other": 306105.18
+  },
+  {
+   "key": "months",
+   "label": "Months at or above $20,000 (card limit $25,000)",
+   "metric": "months_over_20k",
+   "rank": 2,
+   "rank_facility": 1,
+   "value": 40.0,
+   "median": 0.0,
+   "p95": 13.099999999999966,
+   "max_other": 55.0
+  },
+  {
+   "key": "composite",
+   "label": "Composite: average percentile over eight tests",
+   "metric": "composite",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 0.9400735294117647,
+   "median": 0.48419117647058824,
+   "p95": 0.8503124999999999,
+   "max_other": 0.925
+  },
+  {
+   "key": "iforest",
+   "label": "Isolation forest on ten cardholder features",
+   "metric": "iforest",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 0.690428855085466,
+   "median": 0.4139770245535794,
+   "p95": 0.5379567822218363,
+   "max_other": 0.6177995206775916
+  },
+  {
+   "key": "lof",
+   "label": "Local outlier factor on the same features",
+   "metric": "lof",
+   "rank": 1,
+   "rank_facility": 1,
+   "value": 2.758961354760736,
+   "median": 1.1455671165112982,
+   "p95": 1.637345804214487,
+   "max_other": 2.1660866244550663
+  }
+ ],
+ "ml_features": [
+  "near_limit_share",
+  "whole_dollar_share",
+  "fac_share",
+  "sole_vendor_share",
+  "weekend_share",
+  "repeat_amount_share",
+  "mismatch_share",
+  "fd_mad_z_pool",
+  "log_median_amount",
+  "split_rate"
+ ],
+ "benford_min_n": [
+  {
+   "min_n": 50,
+   "eligible": 218,
+   "fd_mad": 10,
+   "fd_z": 1,
+   "f2_mad": 101,
+   "f2_z": 4
+  },
+  {
+   "min_n": 100,
+   "eligible": 170,
+   "fd_mad": 5,
+   "fd_z": 1,
+   "f2_mad": 53,
+   "f2_z": 4
+  },
+  {
+   "min_n": 200,
+   "eligible": 104,
+   "fd_mad": 2,
+   "fd_z": 1,
+   "f2_mad": 10,
+   "f2_z": 4
+  },
+  {
+   "min_n": 500,
+   "eligible": 38,
+   "fd_mad": 1,
+   "fd_z": 1,
+   "f2_mad": 2,
+   "f2_z": 1
+  }
+ ],
+ "top": {
+  "total_spend": [
+   {
+    "who": "CH-001",
+    "value": 3489026.44,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-002",
+    "value": 2457607.58,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-007",
+    "value": 1489395.7,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-005",
+    "value": 1340560.34,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "Ybarra",
+    "value": 1335129.61,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-008",
+    "value": 1237659.1,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-004",
+    "value": 1088122.15,
+    "n": 1022,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-010",
+    "value": 823823.6,
+    "n": 1271,
+    "unit": "Construction South"
+   },
+   {
+    "who": "CH-013",
+    "value": 808169.57,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-012",
+    "value": 745080.84,
+    "n": 799,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-015",
+    "value": 715781.01,
+    "n": 756,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 696249.18,
+    "n": 561,
+    "unit": "Facility Management"
+   }
+  ],
+  "benford_fd": [
+   {
+    "who": "CH-368",
+    "value": 0.10156188366810093,
+    "n": 122,
+    "unit": "Security Management Services",
+    "top_vendor_share": 0.5327868852459017,
+    "top_amount_share": 0.5409836065573771,
+    "fac_share": 0.0
+   },
+   {
+    "who": "CH-206",
+    "value": 0.08325233274110436,
+    "n": 331,
+    "unit": "Project Management Office.",
+    "top_vendor_share": 0.39274924471299094,
+    "top_amount_share": 0.1903323262839879,
+    "fac_share": 0.00018884428806458778
+   },
+   {
+    "who": "CH-146",
+    "value": 0.07564840254009754,
+    "n": 198,
+    "unit": "Corporate Improvement Services",
+    "top_vendor_share": 0.47474747474747475,
+    "top_amount_share": 0.1414141414141414,
+    "fac_share": 0.21008542691206797
+   },
+   {
+    "who": "CH-057",
+    "value": 0.07522979290621738,
+    "n": 101,
+    "unit": "Emergency Management",
+    "top_vendor_share": 0.46534653465346537,
+    "top_amount_share": 0.09900990099009901,
+    "fac_share": 0.0
+   },
+   {
+    "who": "Ybarra",
+    "value": 0.07255069200384198,
+    "n": 973,
+    "unit": "Facility Management",
+    "top_vendor_share": 0.27646454265159304,
+    "top_amount_share": 0.07913669064748201,
+    "fac_share": 0.7689343209158547
+   },
+   {
+    "who": "CH-189",
+    "value": 0.06934115271208584,
+    "n": 104,
+    "unit": "St Elmo Warehouse",
+    "top_vendor_share": 0.20192307692307693,
+    "top_amount_share": 0.18269230769230768,
+    "fac_share": 0.0439866129282292
+   },
+   {
+    "who": "CH-275",
+    "value": 0.06427864876162169,
+    "n": 145,
+    "unit": "Utility Forestry-Distribution",
+    "top_vendor_share": 0.19310344827586207,
+    "top_amount_share": 0.04827586206896552,
+    "fac_share": 0.0
+   },
+   {
+    "who": "CH-084",
+    "value": 0.06188891771700275,
+    "n": 278,
+    "unit": "Emergency Management",
+    "top_vendor_share": 0.18705035971223022,
+    "top_amount_share": 0.1079136690647482,
+    "fac_share": 0.0
+   },
+   {
+    "who": "CH-101",
+    "value": 0.05865972326997366,
+    "n": 133,
+    "unit": "Complex Metering",
+    "top_vendor_share": 0.17293233082706766,
+    "top_amount_share": 0.09022556390977443,
+    "fac_share": 0.027621465741732926
+   },
+   {
+    "who": "CH-014",
+    "value": 0.058313647720246706,
+    "n": 561,
+    "unit": "Facility Management",
+    "top_vendor_share": 0.23529411764705882,
+    "top_amount_share": 0.049910873440285206,
+    "fac_share": 0.6815218798534168
+   },
+   {
+    "who": "CH-198",
+    "value": 0.05621693840732362,
+    "n": 192,
+    "unit": "Corporate Communications",
+    "top_vendor_share": 0.06770833333333333,
+    "top_amount_share": 0.06770833333333333,
+    "fac_share": 0.43818328475500773
+   },
+   {
+    "who": "CH-210",
+    "value": 0.05476573103151538,
+    "n": 253,
+    "unit": "Project Management Office.",
+    "top_vendor_share": 0.37549407114624506,
+    "top_amount_share": 0.3675889328063241,
+    "fac_share": 0.0
+   }
+  ],
+  "benford_fd_z": [
+   {
+    "who": "Ybarra",
+    "value": 31.520696104501237,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-206",
+    "value": 19.534986088961766,
+    "n": 331,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-014",
+    "value": 17.426181809419404,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-002",
+    "value": 16.41873196434269,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-001",
+    "value": 15.351038946359221,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-029",
+    "value": 13.631752199531311,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-368",
+    "value": 13.341463018122948,
+    "n": 122,
+    "unit": "Security Management Services"
+   },
+   {
+    "who": "CH-146",
+    "value": 13.13644730482321,
+    "n": 198,
+    "unit": "Corporate Improvement Services"
+   },
+   {
+    "who": "CH-013",
+    "value": 13.105828799888691,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-047",
+    "value": 12.976290256341313,
+    "n": 438,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-008",
+    "value": 12.817837976703819,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-005",
+    "value": 12.283590524078615,
+    "n": 1670,
+    "unit": "Facility Management"
+   }
+  ],
+  "benford_f2": [
+   {
+    "who": "CH-368",
+    "value": 0.016172925574506777,
+    "n": 122,
+    "unit": "Security Management Services"
+   },
+   {
+    "who": "CH-210",
+    "value": 0.015964889477963515,
+    "n": 253,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-084",
+    "value": 0.01507487632360223,
+    "n": 278,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-206",
+    "value": 0.014124737898082216,
+    "n": 331,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-057",
+    "value": 0.013211298922562656,
+    "n": 101,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-232",
+    "value": 0.012853654701419923,
+    "n": 103,
+    "unit": "Customer Relationship Mgmt"
+   },
+   {
+    "who": "CH-146",
+    "value": 0.012509058693541086,
+    "n": 198,
+    "unit": "Corporate Improvement Services"
+   },
+   {
+    "who": "CH-173",
+    "value": 0.012140616220461687,
+    "n": 242,
+    "unit": "Corporate Communications"
+   },
+   {
+    "who": "CH-245",
+    "value": 0.011614369575347592,
+    "n": 124,
+    "unit": "Utility Forestry-Distribution"
+   },
+   {
+    "who": "CH-101",
+    "value": 0.011468968438945912,
+    "n": 133,
+    "unit": "Complex Metering"
+   },
+   {
+    "who": "CH-189",
+    "value": 0.010850408405824278,
+    "n": 104,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-188",
+    "value": 0.010512881048755624,
+    "n": 140,
+    "unit": "Green Building-Commercial"
+   }
+  ],
+  "benford_f2_z": [
+   {
+    "who": "CH-206",
+    "value": 28.24579017283259,
+    "n": 331,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-210",
+    "value": 27.017434423996118,
+    "n": 253,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-084",
+    "value": 25.172017143288294,
+    "n": 278,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "Ybarra",
+    "value": 24.319786491154336,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-002",
+    "value": 20.82882650018871,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-029",
+    "value": 20.125714695564245,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-001",
+    "value": 17.590343622225543,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-173",
+    "value": 16.88651761690658,
+    "n": 242,
+    "unit": "Corporate Communications"
+   },
+   {
+    "who": "CH-368",
+    "value": 15.917322960151461,
+    "n": 122,
+    "unit": "Security Management Services"
+   },
+   {
+    "who": "CH-048",
+    "value": 15.672902267813743,
+    "n": 1205,
+    "unit": "System Operatiions (SOR)"
+   },
+   {
+    "who": "CH-146",
+    "value": 15.326089467823897,
+    "n": 198,
+    "unit": "Corporate Improvement Services"
+   },
+   {
+    "who": "CH-047",
+    "value": 13.974240842327466,
+    "n": 438,
+    "unit": "Substation Construction & Main"
+   }
+  ],
+  "near_limit": [
+   {
+    "who": "Ybarra",
+    "value": 332.0,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-001",
+    "value": 307.0,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-002",
+    "value": 278.0,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-008",
+    "value": 142.0,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-005",
+    "value": 141.0,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 130.0,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 119.0,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-004",
+    "value": 101.0,
+    "n": 1022,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-007",
+    "value": 96.0,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-012",
+    "value": 82.0,
+    "n": 799,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-015",
+    "value": 64.0,
+    "n": 756,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-011",
+    "value": 52.0,
+    "n": 756,
+    "unit": "Fleet Management"
+   }
+  ],
+  "near_limit_share": [
+   {
+    "who": "Ybarra",
+    "value": 0.34121274409044194,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 0.21212121212121213,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 0.18387553041018387,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-045",
+    "value": 0.15822784810126583,
+    "n": 158,
+    "unit": "Server/Host Operations"
+   },
+   {
+    "who": "CH-062",
+    "value": 0.15217391304347827,
+    "n": 138,
+    "unit": "Current Diversion"
+   },
+   {
+    "who": "CH-101",
+    "value": 0.13533834586466165,
+    "n": 133,
+    "unit": "Complex Metering"
+   },
+   {
+    "who": "CH-099",
+    "value": 0.1349206349206349,
+    "n": 126,
+    "unit": "Server/Host Operations"
+   },
+   {
+    "who": "CH-116",
+    "value": 0.12389380530973451,
+    "n": 113,
+    "unit": "Market Promotion Services"
+   },
+   {
+    "who": "CH-008",
+    "value": 0.11696869851729819,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-002",
+    "value": 0.1095350669818755,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-076",
+    "value": 0.10328638497652583,
+    "n": 213,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-012",
+    "value": 0.10262828535669587,
+    "n": 799,
+    "unit": "Facility Management"
+   }
+  ],
+  "whole_dollar": [
+   {
+    "who": "CH-210",
+    "value": 0.9257425742574258,
+    "n": 253,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-011",
+    "value": 0.8615384615384616,
+    "n": 756,
+    "unit": "Fleet Management"
+   },
+   {
+    "who": "CH-188",
+    "value": 0.8513513513513513,
+    "n": 140,
+    "unit": "Green Building-Commercial"
+   },
+   {
+    "who": "CH-058",
+    "value": 0.8423423423423423,
+    "n": 253,
+    "unit": "Market Promotion Services"
+   },
+   {
+    "who": "CH-275",
+    "value": 0.7674418604651163,
+    "n": 145,
+    "unit": "Utility Forestry-Distribution"
+   },
+   {
+    "who": "CH-053",
+    "value": 0.7602739726027398,
+    "n": 230,
+    "unit": "Advertising-Conservation"
+   },
+   {
+    "who": "CH-330",
+    "value": 0.75,
+    "n": 183,
+    "unit": "Utility Forestry-Distribution"
+   },
+   {
+    "who": "CH-171",
+    "value": 0.7431192660550459,
+    "n": 199,
+    "unit": "Sr VP Elec. Serv. Delivery"
+   },
+   {
+    "who": "CH-173",
+    "value": 0.7230769230769231,
+    "n": 242,
+    "unit": "Corporate Communications"
+   },
+   {
+    "who": "CH-327",
+    "value": 0.7222222222222222,
+    "n": 121,
+    "unit": "Utility Forestry-Distribution"
+   },
+   {
+    "who": "CH-002",
+    "value": 0.7056990204808549,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-146",
+    "value": 0.696969696969697,
+    "n": 198,
+    "unit": "Corporate Improvement Services"
+   }
+  ],
+  "facilitator": [
+   {
+    "who": "Ybarra",
+    "value": 1026626.98,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 474509.05,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-008",
+    "value": 397097.19,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 296413.19,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-005",
+    "value": 232655.54,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-012",
+    "value": 183564.34,
+    "n": 799,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-015",
+    "value": 126769.74,
+    "n": 756,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-016",
+    "value": 120331.58,
+    "n": 893,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-017",
+    "value": 110972.65,
+    "n": 1211,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-044",
+    "value": 103762.31,
+    "n": 598,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-029",
+    "value": 101260.85,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-076",
+    "value": 100310.9,
+    "n": 213,
+    "unit": "Facility Management"
+   }
+  ],
+  "sole_vendor": [
+   {
+    "who": "CH-008",
+    "value": 123988.49,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "Ybarra",
+    "value": 96058.34,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-044",
+    "value": 56253.92,
+    "n": 598,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-063",
+    "value": 45095.64,
+    "n": 547,
+    "unit": "Enterprise Arch, Data & Dvlpt"
+   },
+   {
+    "who": "CH-048",
+    "value": 37681.57,
+    "n": 1205,
+    "unit": "System Operatiions (SOR)"
+   },
+   {
+    "who": "CH-084",
+    "value": 34116.62,
+    "n": 278,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-045",
+    "value": 33801.62,
+    "n": 158,
+    "unit": "Server/Host Operations"
+   },
+   {
+    "who": "CH-041",
+    "value": 33732.38,
+    "n": 317,
+    "unit": "Advertising-Conservation"
+   },
+   {
+    "who": "CH-005",
+    "value": 32105.53,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-051",
+    "value": 31384.89,
+    "n": 1249,
+    "unit": "Credit Management"
+   },
+   {
+    "who": "CH-065",
+    "value": 28047.83,
+    "n": 303,
+    "unit": "Server/Host Operations"
+   },
+   {
+    "who": "CH-013",
+    "value": 27755.78,
+    "n": 707,
+    "unit": "Facility Management"
+   }
+  ],
+  "split": [
+   {
+    "who": "CH-001",
+    "value": 565.0,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-002",
+    "value": 436.0,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-004",
+    "value": 197.0,
+    "n": 1022,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-007",
+    "value": 180.0,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-005",
+    "value": 129.0,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 88.0,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-025",
+    "value": 86.0,
+    "n": 561,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-016",
+    "value": 75.0,
+    "n": 893,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-010",
+    "value": 60.0,
+    "n": 1271,
+    "unit": "Construction South"
+   },
+   {
+    "who": "CH-008",
+    "value": 55.0,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-076",
+    "value": 33.0,
+    "n": 213,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 33.0,
+    "n": 561,
+    "unit": "Facility Management"
+   }
+  ],
+  "stacked": [
+   {
+    "who": "Ybarra",
+    "value": 65.0,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-002",
+    "value": 51.0,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-001",
+    "value": 34.0,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-004",
+    "value": 16.0,
+    "n": 1022,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-014",
+    "value": 14.0,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-008",
+    "value": 12.0,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 12.0,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-007",
+    "value": 10.0,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-029",
+    "value": 9.0,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-005",
+    "value": 8.0,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-012",
+    "value": 8.0,
+    "n": 799,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-076",
+    "value": 5.0,
+    "n": 213,
+    "unit": "Facility Management"
+   }
+  ],
+  "weekend": [
+   {
+    "who": "Ybarra",
+    "value": 239259.06,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-001",
+    "value": 198584.62,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-002",
+    "value": 138562.33,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-084",
+    "value": 106490.2,
+    "n": 278,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-017",
+    "value": 92561.02,
+    "n": 1211,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 85801.71,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-007",
+    "value": 73341.58,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-008",
+    "value": 67990.9,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-057",
+    "value": 66063.74,
+    "n": 101,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-022",
+    "value": 61848.7,
+    "n": 1403,
+    "unit": "Service Center North"
+   },
+   {
+    "who": "CH-040",
+    "value": 61782.14,
+    "n": 121,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-019",
+    "value": 57850.18,
+    "n": 729,
+    "unit": "Enterprise Arch, Data & Dvlpt"
+   }
+  ],
+  "repeat": [
+   {
+    "who": "CH-210",
+    "value": 0.8366336633663366,
+    "n": 253,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-011",
+    "value": 0.8153846153846154,
+    "n": 756,
+    "unit": "Fleet Management"
+   },
+   {
+    "who": "CH-206",
+    "value": 0.6954732510288066,
+    "n": 331,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-173",
+    "value": 0.5846153846153846,
+    "n": 242,
+    "unit": "Corporate Communications"
+   },
+   {
+    "who": "CH-146",
+    "value": 0.49242424242424243,
+    "n": 198,
+    "unit": "Corporate Improvement Services"
+   },
+   {
+    "who": "CH-312",
+    "value": 0.46153846153846156,
+    "n": 159,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-245",
+    "value": 0.45161290322580644,
+    "n": 124,
+    "unit": "Utility Forestry-Distribution"
+   },
+   {
+    "who": "CH-174",
+    "value": 0.4473684210526316,
+    "n": 163,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-057",
+    "value": 0.44554455445544555,
+    "n": 101,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-260",
+    "value": 0.43859649122807015,
+    "n": 122,
+    "unit": "Utility Forestry-Transmission"
+   },
+   {
+    "who": "CH-084",
+    "value": 0.4098360655737705,
+    "n": 278,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-136",
+    "value": 0.3954802259887006,
+    "n": 297,
+    "unit": "Green Building Prgm"
+   }
+  ],
+  "mismatch": [
+   {
+    "who": "CH-016",
+    "value": 306105.18,
+    "n": 893,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-005",
+    "value": 236416.46,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-015",
+    "value": 214483.58,
+    "n": 756,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-029",
+    "value": 209279.92,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-008",
+    "value": 157817.87,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-017",
+    "value": 147480.18,
+    "n": 1211,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-058",
+    "value": 147393.23,
+    "n": 253,
+    "unit": "Market Promotion Services"
+   },
+   {
+    "who": "CH-011",
+    "value": 144098.35,
+    "n": 756,
+    "unit": "Fleet Management"
+   },
+   {
+    "who": "CH-033",
+    "value": 134900.22,
+    "n": 403,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-019",
+    "value": 129922.48,
+    "n": 729,
+    "unit": "Enterprise Arch, Data & Dvlpt"
+   },
+   {
+    "who": "CH-020",
+    "value": 112873.89,
+    "n": 374,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-014",
+    "value": 110179.31,
+    "n": 561,
+    "unit": "Facility Management"
+   }
+  ],
+  "months": [
+   {
+    "who": "CH-001",
+    "value": 55.0,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "Ybarra",
+    "value": 40.0,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-002",
+    "value": 39.0,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-005",
+    "value": 38.0,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-008",
+    "value": 32.0,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-007",
+    "value": 30.0,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-016",
+    "value": 21.0,
+    "n": 893,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-013",
+    "value": 20.0,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-004",
+    "value": 14.0,
+    "n": 1022,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-014",
+    "value": 12.0,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-012",
+    "value": 10.0,
+    "n": 799,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-015",
+    "value": 10.0,
+    "n": 756,
+    "unit": "Facility Management"
+   }
+  ],
+  "composite": [
+   {
+    "who": "Ybarra",
+    "value": 0.9400735294117647,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-008",
+    "value": 0.925,
+    "n": 1214,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 0.9102941176470589,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 0.9095588235294118,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-005",
+    "value": 0.9073529411764706,
+    "n": 1670,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-002",
+    "value": 0.8897058823529412,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-007",
+    "value": 0.8808823529411764,
+    "n": 1899,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-015",
+    "value": 0.8764705882352941,
+    "n": 756,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-026",
+    "value": 0.8514705882352942,
+    "n": 941,
+    "unit": "Market Promotion Services"
+   },
+   {
+    "who": "CH-001",
+    "value": 0.8488970588235293,
+    "n": 3457,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-012",
+    "value": 0.8235294117647061,
+    "n": 799,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-016",
+    "value": 0.8183823529411764,
+    "n": 893,
+    "unit": "Substation Construction & Main"
+   },
+   {
+    "who": "CH-029",
+    "value": 0.8128676470588235,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-011",
+    "value": 0.8047794117647059,
+    "n": 756,
+    "unit": "Fleet Management"
+   },
+   {
+    "who": "CH-044",
+    "value": 0.8025735294117646,
+    "n": 598,
+    "unit": "Facility Management"
+   }
+  ],
+  "iforest": [
+   {
+    "who": "Ybarra",
+    "value": 0.690428855085466,
+    "n": 973,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-011",
+    "value": 0.6177995206775916,
+    "n": 756,
+    "unit": "Fleet Management"
+   },
+   {
+    "who": "CH-084",
+    "value": 0.6175157617992743,
+    "n": 278,
+    "unit": "Emergency Management"
+   },
+   {
+    "who": "CH-014",
+    "value": 0.6086276879675,
+    "n": 561,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-076",
+    "value": 0.5803695128333577,
+    "n": 213,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-029",
+    "value": 0.5515566324681662,
+    "n": 721,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-013",
+    "value": 0.5499445962258221,
+    "n": 707,
+    "unit": "Facility Management"
+   },
+   {
+    "who": "CH-045",
+    "value": 0.5440933411605623,
+    "n": 158,
+    "unit": "Server/Host Operations"
+   },
+   {
+    "who": "CH-004",
+    "value": 0.5392180157154309,
+    "n": 1022,
+    "unit": "Kramer Warehouse"
+   },
+   {
+    "who": "CH-198",
+    "value": 0.5364152746185541,
+    "n": 192,
+    "unit": "Corporate Communications"
+   },
+   {
+    "who": "CH-210",
+    "value": 0.5340070127235895,
+    "n": 253,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-206",
+    "value": 0.5319469110341382,
+    "n": 331,
+    "unit": "Project Management Office."
+   },
+   {
+    "who": "CH-101",
+    "value": 0.5307311448253847,
+    "n": 133,
+    "unit": "Complex Metering"
+   },
+   {
+    "who": "CH-002",
+    "value": 0.5249296206369334,
+    "n": 2538,
+    "unit": "St Elmo Warehouse"
+   },
+   {
+    "who": "CH-058",
+    "value": 0.5190104353730735,
+    "n": 253,
+    "unit": "Market Promotion Services"
+   }
+  ]
+ },
+ "scatter": [
+  {
+   "who": "CH-206",
+   "n": 331,
+   "fd_mad": 0.08325233274110436,
+   "fd_z": 19.534986088961766,
+   "near": 0.0,
+   "fac": 0.00018884428806458778,
+   "spend": 52953.68,
+   "whole": 0.6172839506172839,
+   "sole": 0.05359400895273001,
+   "composite": 0.3849264705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-156",
+   "n": 227,
+   "fd_mad": 0.014196788076692494,
+   "fd_z": -0.3215570302346473,
+   "near": 0.004405286343612335,
+   "fac": 0.01766086401699447,
+   "spend": 45153.51,
+   "whole": 0.3010752688172043,
+   "sole": 0.0,
+   "composite": 0.2580882352941177,
+   "facility": false
+  },
+  {
+   "who": "CH-126",
+   "n": 625,
+   "fd_mad": 0.008604723271036098,
+   "fd_z": -0.2733580473874971,
+   "near": 0.0032,
+   "fac": 0.0,
+   "spend": 101462.36,
+   "whole": 0.13963963963963963,
+   "sole": 0.0017062485043714735,
+   "composite": 0.21176470588235294,
+   "facility": false
+  },
+  {
+   "who": "CH-189",
+   "n": 104,
+   "fd_mad": 0.06934115271208584,
+   "fd_z": 7.104136899315126,
+   "near": 0.028846153846153848,
+   "fac": 0.0439866129282292,
+   "spend": 60443.39,
+   "whole": 0.46078431372549017,
+   "sole": 0.0,
+   "composite": 0.5143382352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-073",
+   "n": 388,
+   "fd_mad": 0.025887950562643355,
+   "fd_z": 4.0336439895693434,
+   "near": 0.007731958762886598,
+   "fac": 0.0005488885484188908,
+   "spend": 209514.3,
+   "whole": 0.4716981132075472,
+   "sole": 0.0018948587280199969,
+   "composite": 0.5761029411764707,
+   "facility": false
+  },
+  {
+   "who": "CH-089",
+   "n": 456,
+   "fd_mad": 0.010193075867521608,
+   "fd_z": -0.259977690188458,
+   "near": 0.008771929824561403,
+   "fac": 0.06956773558129234,
+   "spend": 146136.71,
+   "whole": 0.6156583629893239,
+   "sole": 0.06027664096174056,
+   "composite": 0.5672794117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-045",
+   "n": 158,
+   "fd_mad": 0.03886073757365319,
+   "fd_z": 3.8396731356240874,
+   "near": 0.15822784810126583,
+   "fac": 0.1958570143504603,
+   "spend": 194853.68,
+   "whole": 0.18705035971223022,
+   "sole": 0.17347180715293653,
+   "composite": 0.6544117647058825,
+   "facility": false
+  },
+  {
+   "who": "CH-190",
+   "n": 130,
+   "fd_mad": 0.018657928722215094,
+   "fd_z": -0.2934364531514962,
+   "near": 0.0,
+   "fac": 0.05416556464776804,
+   "spend": 59890.08,
+   "whole": 0.2692307692307692,
+   "sole": 0.0010714629200695674,
+   "composite": 0.25772058823529415,
+   "facility": false
+  },
+  {
+   "who": "CH-267",
+   "n": 154,
+   "fd_mad": 0.020889860356173177,
+   "fd_z": 0.34625844091303964,
+   "near": 0.0,
+   "fac": 0.050605189459655586,
+   "spend": 29090.89,
+   "whole": 0.375,
+   "sole": 0.022137514527743908,
+   "composite": 0.29411764705882354,
+   "facility": false
+  },
+  {
+   "who": "CH-013",
+   "n": 707,
+   "fd_mad": 0.04227674991281891,
+   "fd_z": 13.105828799888691,
+   "near": 0.18387553041018387,
+   "fac": 0.36677103544000056,
+   "spend": 808169.57,
+   "whole": 0.5276923076923077,
+   "sole": 0.034344005305718205,
+   "composite": 0.9095588235294118,
+   "facility": true
+  },
+  {
+   "who": "CH-296",
+   "n": 184,
+   "fd_mad": 0.009611774336777748,
+   "fd_z": -1.5486101437553759,
+   "near": 0.0,
+   "fac": 0.18476475981736,
+   "spend": 21649.15,
+   "whole": 0.2923076923076923,
+   "sole": 0.18476475981736,
+   "composite": 0.3235294117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-113",
+   "n": 250,
+   "fd_mad": 0.020840156725795717,
+   "fd_z": 1.449840639502454,
+   "near": 0.004,
+   "fac": 0.12424341572882563,
+   "spend": 71365.15,
+   "whole": 0.4689265536723164,
+   "sole": 0.004203732494081495,
+   "composite": 0.42242647058823524,
+   "facility": false
+  },
+  {
+   "who": "CH-043",
+   "n": 815,
+   "fd_mad": 0.01417075602978584,
+   "fd_z": 2.5631284294108085,
+   "near": 0.006134969325153374,
+   "fac": 0.0062189057577544905,
+   "spend": 305364.01,
+   "whole": 0.1774193548387097,
+   "sole": 0.007010321877813958,
+   "composite": 0.48897058823529416,
+   "facility": false
+  },
+  {
+   "who": "CH-063",
+   "n": 547,
+   "fd_mad": 0.026818880222768494,
+   "fd_z": 5.974899499294209,
+   "near": 0.016453382084095063,
+   "fac": 0.08923506173337985,
+   "spend": 236770.61,
+   "whole": 0.3498542274052478,
+   "sole": 0.19046130767665803,
+   "composite": 0.70625,
+   "facility": false
+  },
+  {
+   "who": "CH-080",
+   "n": 368,
+   "fd_mad": 0.02080063071622182,
+   "fd_z": 2.3895199639171247,
+   "near": 0.03260869565217391,
+   "fac": 0.046448353932881985,
+   "spend": 159832.79,
+   "whole": 0.15859030837004406,
+   "sole": 0.1303473461234081,
+   "composite": 0.6356617647058823,
+   "facility": false
+  },
+  {
+   "who": "CH-068",
+   "n": 358,
+   "fd_mad": 0.01917016092105121,
+   "fd_z": 2.206608302741624,
+   "near": 0.008379888268156424,
+   "fac": 0.029957263878744658,
+   "spend": 120060.03,
+   "whole": 0.3923444976076555,
+   "sole": 0.02756670975344584,
+   "composite": 0.5375,
+   "facility": false
+  },
+  {
+   "who": "CH-095",
+   "n": 219,
+   "fd_mad": 0.025542153369353855,
+   "fd_z": 2.1018866948687736,
+   "near": 0.0136986301369863,
+   "fac": 0.0,
+   "spend": 116563.69,
+   "whole": 0.3698630136986301,
+   "sole": 0.0,
+   "composite": 0.3058823529411765,
+   "facility": false
+  },
+  {
+   "who": "CH-085",
+   "n": 115,
+   "fd_mad": 0.04419119670098778,
+   "fd_z": 3.7779253115273135,
+   "near": 0.034782608695652174,
+   "fac": 0.3104973983147401,
+   "spend": 75614.45,
+   "whole": 0.5842696629213483,
+   "sole": 0.03343144068362595,
+   "composite": 0.5400735294117646,
+   "facility": false
+  },
+  {
+   "who": "CH-047",
+   "n": 438,
+   "fd_mad": 0.051091971690333596,
+   "fd_z": 12.976290256341313,
+   "near": 0.02968036529680365,
+   "fac": 0.024541876764697643,
+   "spend": 323890.47000000003,
+   "whole": 0.18506493506493507,
+   "sole": 0.005523256056283471,
+   "composite": 0.6742647058823529,
+   "facility": false
+  },
+  {
+   "who": "CH-075",
+   "n": 385,
+   "fd_mad": 0.028342540646099416,
+   "fd_z": 5.125199726544882,
+   "near": 0.005194805194805195,
+   "fac": 0.0749052446236632,
+   "spend": 125264.66,
+   "whole": 0.6161616161616161,
+   "sole": 0.18347776619519024,
+   "composite": 0.6988970588235295,
+   "facility": false
+  },
+  {
+   "who": "CH-198",
+   "n": 192,
+   "fd_mad": 0.05621693840732362,
+   "fd_z": 8.06506049043713,
+   "near": 0.03125,
+   "fac": 0.43818328475500773,
+   "spend": 55491.14,
+   "whole": 0.5757575757575758,
+   "sole": 0.0,
+   "composite": 0.5551470588235293,
+   "facility": false
+  },
+  {
+   "who": "CH-368",
+   "n": 122,
+   "fd_mad": 0.10156188366810093,
+   "fd_z": 13.341463018122948,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 8758.98,
+   "whole": 0.6190476190476191,
+   "sole": 0.0,
+   "composite": 0.3080882352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-122",
+   "n": 412,
+   "fd_mad": 0.00863874748125595,
+   "fd_z": -1.0998103785740967,
+   "near": 0.012135922330097087,
+   "fac": 0.1293484806801183,
+   "spend": 115189.37,
+   "whole": 0.4258373205741627,
+   "sole": 0.05875689744635291,
+   "composite": 0.5113970588235294,
+   "facility": false
+  },
+  {
+   "who": "CH-125",
+   "n": 202,
+   "fd_mad": 0.023000146597508767,
+   "fd_z": 1.446891721404619,
+   "near": 0.039603960396039604,
+   "fac": 0.038640262247304366,
+   "spend": 108261.17,
+   "whole": 0.35,
+   "sole": 0.0,
+   "composite": 0.46544117647058825,
+   "facility": false
+  },
+  {
+   "who": "CH-101",
+   "n": 133,
+   "fd_mad": 0.05865972326997366,
+   "fd_z": 6.88503007040036,
+   "near": 0.13533834586466165,
+   "fac": 0.027621465741732926,
+   "spend": 144452.87,
+   "whole": 0.5193798449612403,
+   "sole": 0.0,
+   "composite": 0.6202205882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-171",
+   "n": 199,
+   "fd_mad": 0.03592910101936026,
+   "fd_z": 4.52843802896616,
+   "near": 0.005025125628140704,
+   "fac": 0.0983445880228676,
+   "spend": 69194.86,
+   "whole": 0.7431192660550459,
+   "sole": 0.026714267504840676,
+   "composite": 0.5746323529411765,
+   "facility": false
+  },
+  {
+   "who": "CH-220",
+   "n": 108,
+   "fd_mad": 0.018090999554143432,
+   "fd_z": -0.6983320105524233,
+   "near": 0.018518518518518517,
+   "fac": 0.016329603317076884,
+   "spend": 46797.83,
+   "whole": 0.1797752808988764,
+   "sole": 0.13311108656106488,
+   "composite": 0.34264705882352936,
+   "facility": false
+  },
+  {
+   "who": "CH-042",
+   "n": 289,
+   "fd_mad": 0.022892289674545187,
+   "fd_z": 2.548256410961053,
+   "near": 0.01384083044982699,
+   "fac": 0.04478513839154694,
+   "spend": 141608.36,
+   "whole": 0.5677083333333334,
+   "sole": 0.012428644749504903,
+   "composite": 0.5610294117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-001",
+   "n": 3457,
+   "fd_mad": 0.02084353919226754,
+   "fd_z": 15.351038946359221,
+   "near": 0.08880532253398901,
+   "fac": 0.018000803685511768,
+   "spend": 3489026.44,
+   "whole": 0.6650200679221983,
+   "sole": 0.0,
+   "composite": 0.8488970588235293,
+   "facility": false
+  },
+  {
+   "who": "CH-062",
+   "n": 138,
+   "fd_mad": 0.04782047917454947,
+   "fd_z": 4.919898474658283,
+   "near": 0.15217391304347827,
+   "fac": 0.0015706002327863188,
+   "spend": 154081.22,
+   "whole": 0.33070866141732286,
+   "sole": 0.0,
+   "composite": 0.4540441176470588,
+   "facility": false
+  },
+  {
+   "who": "CH-036",
+   "n": 538,
+   "fd_mad": 0.012849689172584123,
+   "fd_z": 0.9694298520106878,
+   "near": 0.0018587360594795538,
+   "fac": 0.01538368435615772,
+   "spend": 139465.29,
+   "whole": 0.6046511627906976,
+   "sole": 0.10483698130194256,
+   "composite": 0.4970588235294118,
+   "facility": false
+  },
+  {
+   "who": "CH-148",
+   "n": 106,
+   "fd_mad": 0.02338089228692201,
+   "fd_z": 0.08805121024137712,
+   "near": 0.03773584905660377,
+   "fac": 0.0,
+   "spend": 84054.42,
+   "whole": 0.36,
+   "sole": 0.0011272458961706,
+   "composite": 0.32536764705882354,
+   "facility": false
+  },
+  {
+   "who": "CH-082",
+   "n": 376,
+   "fd_mad": 0.02102799833931898,
+   "fd_z": 2.7654097130342183,
+   "near": 0.013297872340425532,
+   "fac": 0.019091523324132817,
+   "spend": 143756.47,
+   "whole": 0.2754237288135593,
+   "sole": 0.01719873895067123,
+   "composite": 0.5323529411764706,
+   "facility": false
+  },
+  {
+   "who": "CH-172",
+   "n": 235,
+   "fd_mad": 0.017265201909186217,
+   "fd_z": 0.4059294248239487,
+   "near": 0.01276595744680851,
+   "fac": 0.02626597893350541,
+   "spend": 68216.38,
+   "whole": 0.45901639344262296,
+   "sole": 0.035182165925544566,
+   "composite": 0.41580882352941173,
+   "facility": false
+  },
+  {
+   "who": "CH-131",
+   "n": 282,
+   "fd_mad": 0.024072266441124132,
+   "fd_z": 2.389063217321953,
+   "near": 0.02127659574468085,
+   "fac": 0.10069965355434468,
+   "spend": 100558.34,
+   "whole": 0.4429530201342282,
+   "sole": 0.0038389655199161004,
+   "composite": 0.538235294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-102",
+   "n": 289,
+   "fd_mad": 0.04034338588896046,
+   "fd_z": 7.511732377219021,
+   "near": 0.0657439446366782,
+   "fac": 0.2128461531150556,
+   "spend": 139936.99,
+   "whole": 0.6470588235294118,
+   "sole": 0.0047807230954446,
+   "composite": 0.6580882352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-081",
+   "n": 356,
+   "fd_mad": 0.02111959174703314,
+   "fd_z": 2.6304155958846356,
+   "near": 0.0028089887640449437,
+   "fac": 0.046163501377742916,
+   "spend": 95460.48,
+   "whole": 0.40703517587939697,
+   "sole": 0.003928327198857579,
+   "composite": 0.43970588235294117,
+   "facility": false
+  },
+  {
+   "who": "CH-304",
+   "n": 178,
+   "fd_mad": 0.02333144597231276,
+   "fd_z": 1.0641686079986656,
+   "near": 0.0,
+   "fac": 0.03306137467430812,
+   "spend": 14730.18,
+   "whole": 0.5576923076923077,
+   "sole": 0.00617779280361815,
+   "composite": 0.2511029411764706,
+   "facility": false
+  },
+  {
+   "who": "CH-195",
+   "n": 141,
+   "fd_mad": 0.0381814766636828,
+   "fd_z": 3.3244695087322675,
+   "near": 0.0,
+   "fac": 0.06672767131223625,
+   "spend": 37975.25,
+   "whole": 0.6813186813186813,
+   "sole": 0.007504888052086557,
+   "composite": 0.37536764705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-007",
+   "n": 1899,
+   "fd_mad": 0.016595872678805683,
+   "fd_z": 7.5351301342817925,
+   "near": 0.05055292259083728,
+   "fac": 0.008193913813501676,
+   "spend": 1489395.7,
+   "whole": 0.6636744464392579,
+   "sole": 0.013471027209223179,
+   "composite": 0.8808823529411764,
+   "facility": false
+  },
+  {
+   "who": "CH-053",
+   "n": 230,
+   "fd_mad": 0.022428276909625768,
+   "fd_z": 1.6709645569126261,
+   "near": 0.08695652173913043,
+   "fac": 0.29137960388234413,
+   "spend": 185431.27,
+   "whole": 0.7602739726027398,
+   "sole": 0.11108142655766744,
+   "composite": 0.7533088235294116,
+   "facility": false
+  },
+  {
+   "who": "CH-152",
+   "n": 178,
+   "fd_mad": 0.01456530670903807,
+   "fd_z": -0.6394008469301059,
+   "near": 0.011235955056179775,
+   "fac": 0.07821282006155182,
+   "spend": 62558.67,
+   "whole": 0.21359223300970873,
+   "sole": 0.0,
+   "composite": 0.3422794117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-165",
+   "n": 302,
+   "fd_mad": 0.031152086363727762,
+   "fd_z": 4.62274056626644,
+   "near": 0.0,
+   "fac": 0.0016587558755897706,
+   "spend": 45214.61,
+   "whole": 0.05785123966942149,
+   "sole": 0.0,
+   "composite": 0.2786764705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-191",
+   "n": 127,
+   "fd_mad": 0.03078635056762402,
+   "fd_z": 1.7926497074125607,
+   "near": 0.023622047244094488,
+   "fac": 0.0,
+   "spend": 59215.56,
+   "whole": 0.15730337078651685,
+   "sole": 0.04740021035011743,
+   "composite": 0.4073529411764706,
+   "facility": true
+  },
+  {
+   "who": "CH-255",
+   "n": 147,
+   "fd_mad": 0.020395379931018278,
+   "fd_z": 0.13888760906498723,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 34256.57,
+   "whole": 0.0759493670886076,
+   "sole": 0.0,
+   "composite": 0.16801470588235293,
+   "facility": false
+  },
+  {
+   "who": "CH-039",
+   "n": 657,
+   "fd_mad": 0.01889985331154264,
+   "fd_z": 3.80684251959311,
+   "near": 0.0213089802130898,
+   "fac": 0.1258776448848031,
+   "spend": 358154.54,
+   "whole": 0.23010752688172043,
+   "sole": 0.0,
+   "composite": 0.5878676470588236,
+   "facility": false
+  },
+  {
+   "who": "CH-327",
+   "n": 121,
+   "fd_mad": 0.05007957424962506,
+   "fd_z": 4.897245564734654,
+   "near": 0.0,
+   "fac": 0.024251491699926967,
+   "spend": 10720.99,
+   "whole": 0.7222222222222222,
+   "sole": 0.010134325281527173,
+   "composite": 0.3209558823529411,
+   "facility": false
+  },
+  {
+   "who": "CH-161",
+   "n": 158,
+   "fd_mad": 0.025931449627413467,
+   "fd_z": 1.471376837167323,
+   "near": 0.012658227848101266,
+   "fac": 0.0,
+   "spend": 76659.59,
+   "whole": 0.24770642201834864,
+   "sole": 0.0,
+   "composite": 0.3768382352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-041",
+   "n": 317,
+   "fd_mad": 0.027244297619492666,
+   "fd_z": 3.734207242105479,
+   "near": 0.08517350157728706,
+   "fac": 0.1738213031525301,
+   "spend": 303010.27,
+   "whole": 0.555956678700361,
+   "sole": 0.1113242135324324,
+   "composite": 0.7875,
+   "facility": false
+  },
+  {
+   "who": "CH-066",
+   "n": 729,
+   "fd_mad": 0.01779435929542724,
+   "fd_z": 3.716400851703937,
+   "near": 0.00411522633744856,
+   "fac": 0.029837614794736757,
+   "spend": 176060.99,
+   "whole": 0.34415584415584416,
+   "sole": 0.06638727863565916,
+   "composite": 0.6018382352941177,
+   "facility": false
+  },
+  {
+   "who": "CH-076",
+   "n": 213,
+   "fd_mad": 0.024634407986724668,
+   "fd_z": 1.8657752433853712,
+   "near": 0.10328638497652583,
+   "fac": 0.4910933041000562,
+   "spend": 204260.37,
+   "whole": 0.5810055865921788,
+   "sole": 0.06021726094004432,
+   "composite": 0.7386029411764706,
+   "facility": true
+  },
+  {
+   "who": "CH-002",
+   "n": 2538,
+   "fd_mad": 0.026262838059161856,
+   "fd_z": 16.41873196434269,
+   "near": 0.1095350669818755,
+   "fac": 0.015622323235184683,
+   "spend": 2457607.58,
+   "whole": 0.7056990204808549,
+   "sole": 0.0009977426908815115,
+   "composite": 0.8897058823529412,
+   "facility": false
+  },
+  {
+   "who": "CH-098",
+   "n": 323,
+   "fd_mad": 0.017671625557505184,
+   "fd_z": 1.0454642824368787,
+   "near": 0.006191950464396285,
+   "fac": 0.0,
+   "spend": 98182.17,
+   "whole": 0.16568047337278108,
+   "sole": 0.0,
+   "composite": 0.19117647058823528,
+   "facility": false
+  },
+  {
+   "who": "CH-261",
+   "n": 157,
+   "fd_mad": 0.038413022343939396,
+   "fd_z": 3.6367491661531623,
+   "near": 0.0,
+   "fac": 0.05422854023274195,
+   "spend": 31744.170000000002,
+   "whole": 0.23076923076923078,
+   "sole": 0.0,
+   "composite": 0.3047794117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-072",
+   "n": 147,
+   "fd_mad": 0.030027842177892155,
+   "fd_z": 2.0190658350571877,
+   "near": 0.05442176870748299,
+   "fac": 0.009102223982794613,
+   "spend": 109863.26,
+   "whole": 0.375,
+   "sole": 0.03640889593117845,
+   "composite": 0.5025735294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-109",
+   "n": 152,
+   "fd_mad": 0.04134355271683308,
+   "fd_z": 4.206745820480317,
+   "near": 0.046052631578947366,
+   "fac": 0.02821936262101088,
+   "spend": 124931.95,
+   "whole": 0.19008264462809918,
+   "sole": 0.0,
+   "composite": 0.5238970588235294,
+   "facility": false
+  },
+  {
+   "who": "CH-193",
+   "n": 170,
+   "fd_mad": 0.035149525094976965,
+   "fd_z": 3.4788876205754224,
+   "near": 0.0,
+   "fac": 0.05721397844598843,
+   "spend": 57925.18,
+   "whole": 0.6574074074074074,
+   "sole": 0.04635289868758284,
+   "composite": 0.4602941176470589,
+   "facility": false
+  },
+  {
+   "who": "CH-242",
+   "n": 154,
+   "fd_mad": 0.034114546418105185,
+   "fd_z": 3.0526580164756116,
+   "near": 0.006493506493506494,
+   "fac": 0.022785593721350663,
+   "spend": 37348.16,
+   "whole": 0.1917808219178082,
+   "sole": 0.007978974064585777,
+   "composite": 0.3084558823529412,
+   "facility": false
+  },
+  {
+   "who": "CH-059",
+   "n": 684,
+   "fd_mad": 0.016435660665911147,
+   "fd_z": 3.001237309919815,
+   "near": 0.0014619883040935672,
+   "fac": 0.02401632140014388,
+   "spend": 112843.26,
+   "whole": 0.2786259541984733,
+   "sole": 0.018293338919843333,
+   "composite": 0.4496323529411764,
+   "facility": false
+  },
+  {
+   "who": "CH-106",
+   "n": 226,
+   "fd_mad": 0.034679383966111636,
+   "fd_z": 4.33062342059364,
+   "near": 0.0,
+   "fac": 0.057866934424518554,
+   "spend": 69465.75,
+   "whole": 0.664,
+   "sole": 0.10292842156026531,
+   "composite": 0.49301470588235297,
+   "facility": false
+  },
+  {
+   "who": "CH-132",
+   "n": 149,
+   "fd_mad": 0.021634199174334796,
+   "fd_z": 0.3141742166283793,
+   "near": 0.0,
+   "fac": 0.03833166797003843,
+   "spend": 49448.67,
+   "whole": 0.1935483870967742,
+   "sole": 0.0,
+   "composite": 0.18750000000000003,
+   "facility": false
+  },
+  {
+   "who": "CH-061",
+   "n": 397,
+   "fd_mad": 0.028285312750485403,
+   "fd_z": 4.879815263871163,
+   "near": 0.03526448362720403,
+   "fac": 0.03090185678007237,
+   "spend": 246415.29,
+   "whole": 0.48344370860927155,
+   "sole": 0.016972120520605684,
+   "composite": 0.7080882352941177,
+   "facility": false
+  },
+  {
+   "who": "CH-164",
+   "n": 146,
+   "fd_mad": 0.022196037099416262,
+   "fd_z": 0.5686397899892929,
+   "near": 0.00684931506849315,
+   "fac": 0.23412203179002544,
+   "spend": 75537.53,
+   "whole": 0.5227272727272727,
+   "sole": 0.0,
+   "composite": 0.4547794117647058,
+   "facility": false
+  },
+  {
+   "who": "CH-103",
+   "n": 234,
+   "fd_mad": 0.02095050255156408,
+   "fd_z": 1.2894986311964614,
+   "near": 0.008547008547008548,
+   "fac": 0.0046417522491860545,
+   "spend": 83414.62,
+   "whole": 0.5683453237410072,
+   "sole": 0.3324480768479195,
+   "composite": 0.48602941176470593,
+   "facility": false
+  },
+  {
+   "who": "CH-157",
+   "n": 323,
+   "fd_mad": 0.014302226642838053,
+   "fd_z": 0.3728078647585923,
+   "near": 0.0,
+   "fac": 0.06528184130018704,
+   "spend": 78021.39,
+   "whole": 0.3108108108108108,
+   "sole": 0.0014534475737999542,
+   "composite": 0.34154411764705883,
+   "facility": false
+  },
+  {
+   "who": "CH-307",
+   "n": 103,
+   "fd_mad": 0.020942679556331126,
+   "fd_z": -0.2670962785611331,
+   "near": 0.0,
+   "fac": 0.012127169611948617,
+   "spend": 19949.420000000002,
+   "whole": 0.15555555555555556,
+   "sole": 0.0,
+   "composite": 0.1463235294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-034",
+   "n": 112,
+   "fd_mad": 0.01528102483060532,
+   "fd_z": -1.0407361521711103,
+   "near": 0.026785714285714284,
+   "fac": 0.02616401462244291,
+   "spend": 89779.8,
+   "whole": 0.3595505617977528,
+   "sole": 0.0,
+   "composite": 0.37463235294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-038",
+   "n": 405,
+   "fd_mad": 0.017405128497902014,
+   "fd_z": 1.8990927520192002,
+   "near": 0.01728395061728395,
+   "fac": 0.3456527945991722,
+   "spend": 206433.54,
+   "whole": 0.6214511041009464,
+   "sole": 0.019744175292445206,
+   "composite": 0.6827205882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-016",
+   "n": 893,
+   "fd_mad": 0.020965911904897334,
+   "fd_z": 5.979838189177752,
+   "near": 0.05039193729003359,
+   "fac": 0.17918374440445314,
+   "spend": 671554.11,
+   "whole": 0.23871906841339155,
+   "sole": 0.030152134725227132,
+   "composite": 0.8183823529411764,
+   "facility": false
+  },
+  {
+   "who": "CH-173",
+   "n": 242,
+   "fd_mad": 0.03577284006884023,
+   "fd_z": 4.914091807914514,
+   "near": 0.0,
+   "fac": 0.04616466016017502,
+   "spend": 39749.02,
+   "whole": 0.7230769230769231,
+   "sole": 0.2013513792289722,
+   "composite": 0.45845588235294116,
+   "facility": false
+  },
+  {
+   "who": "CH-091",
+   "n": 345,
+   "fd_mad": 0.015849811837863787,
+   "fd_z": 0.8731129244162461,
+   "near": 0.002898550724637681,
+   "fac": 0.0008690644976941184,
+   "spend": 138079.51,
+   "whole": 0.2782608695652174,
+   "sole": 0.0,
+   "composite": 0.3724264705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-030",
+   "n": 240,
+   "fd_mad": 0.035701970720952034,
+   "fd_z": 5.227788025148202,
+   "near": 0.0875,
+   "fac": 0.01849984344825971,
+   "spend": 250204.82,
+   "whole": 0.4630541871921182,
+   "sole": 0.00909255065509929,
+   "composite": 0.6672794117647058,
+   "facility": false
+  },
+  {
+   "who": "CH-162",
+   "n": 177,
+   "fd_mad": 0.013203669487402437,
+   "fd_z": -0.8822935746400768,
+   "near": 0.0,
+   "fac": 0.10391930453039812,
+   "spend": 76358.19,
+   "whole": 0.14960629921259844,
+   "sole": 0.087744353290721,
+   "composite": 0.3161764705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-090",
+   "n": 172,
+   "fd_mad": 0.03726358535657196,
+   "fd_z": 4.238997772190267,
+   "near": 0.06976744186046512,
+   "fac": 0.004975399921051156,
+   "spend": 170084.82,
+   "whole": 0.2064516129032258,
+   "sole": 0.0,
+   "composite": 0.5297794117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-260",
+   "n": 122,
+   "fd_mad": 0.02996597257196978,
+   "fd_z": 1.479240749983459,
+   "near": 0.0,
+   "fac": 0.2019583225978373,
+   "spend": 23791.79,
+   "whole": 0.5964912280701754,
+   "sole": 0.0,
+   "composite": 0.3125,
+   "facility": false
+  },
+  {
+   "who": "CH-060",
+   "n": 252,
+   "fd_mad": 0.0364489316164229,
+   "fd_z": 5.012323386458226,
+   "near": 0.051587301587301584,
+   "fac": 0.0660123332064992,
+   "spend": 159105.41999999998,
+   "whole": 0.17197452229299362,
+   "sole": 0.0005565492363490823,
+   "composite": 0.5786764705882352,
+   "facility": false
+  },
+  {
+   "who": "CH-012",
+   "n": 799,
+   "fd_mad": 0.03510495967765548,
+   "fd_z": 11.636883419581467,
+   "near": 0.10262828535669587,
+   "fac": 0.24636835380171634,
+   "spend": 745080.84,
+   "whole": 0.42215088282504015,
+   "sole": 0.03133595543807032,
+   "composite": 0.8235294117647061,
+   "facility": true
+  },
+  {
+   "who": "CH-188",
+   "n": 140,
+   "fd_mad": 0.04345043370251144,
+   "fd_z": 4.42348195965415,
+   "near": 0.0,
+   "fac": 0.020524932313885323,
+   "spend": 35007.18,
+   "whole": 0.8513513513513513,
+   "sole": 0.08637313831048374,
+   "composite": 0.4033088235294117,
+   "facility": false
+  },
+  {
+   "who": "CH-020",
+   "n": 374,
+   "fd_mad": 0.02632935583471964,
+   "fd_z": 4.0155743778289015,
+   "near": 0.0427807486631016,
+   "fac": 0.05867566115464696,
+   "spend": 241383.39,
+   "whole": 0.13671875,
+   "sole": 0.0,
+   "composite": 0.6018382352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-216",
+   "n": 100,
+   "fd_mad": 0.026627896646877956,
+   "fd_z": 0.3850435043636645,
+   "near": 0.0,
+   "fac": 0.08982364043625381,
+   "spend": 47996.83,
+   "whole": 0.25,
+   "sole": 0.0,
+   "composite": 0.2716911764705882,
+   "facility": false
+  },
+  {
+   "who": "CH-079",
+   "n": 285,
+   "fd_mad": 0.039002294272823555,
+   "fd_z": 6.593944591227749,
+   "near": 0.08070175438596491,
+   "fac": 0.007899211595872289,
+   "spend": 187866.85,
+   "whole": 0.2927927927927928,
+   "sole": 0.0,
+   "composite": 0.6246323529411765,
+   "facility": false
+  },
+  {
+   "who": "CH-169",
+   "n": 107,
+   "fd_mad": 0.03825632206041947,
+   "fd_z": 2.3671468278817756,
+   "near": 0.0,
+   "fac": 0.006671472350583203,
+   "spend": 29978.39,
+   "whole": 0.09836065573770492,
+   "sole": 0.15874735100850978,
+   "composite": 0.25257352941176475,
+   "facility": false
+  },
+  {
+   "who": "CH-158",
+   "n": 136,
+   "fd_mad": 0.02978719719708224,
+   "fd_z": 1.648779826627483,
+   "near": 0.0,
+   "fac": 0.025485379229230803,
+   "spend": 48616.11,
+   "whole": 0.37894736842105264,
+   "sole": 0.07816339069497745,
+   "composite": 0.45698529411764705,
+   "facility": false
+  },
+  {
+   "who": "CH-070",
+   "n": 496,
+   "fd_mad": 0.01469398598260317,
+   "fd_z": 1.4805961366535687,
+   "near": 0.008064516129032258,
+   "fac": 0.02961152508716777,
+   "spend": 170679.49,
+   "whole": 0.08080808080808081,
+   "sole": 0.033102044071024586,
+   "composite": 0.4852941176470589,
+   "facility": true
+  },
+  {
+   "who": "CH-110",
+   "n": 147,
+   "fd_mad": 0.047374692895675995,
+   "fd_z": 5.184634508106427,
+   "near": 0.02040816326530612,
+   "fac": 0.011590088249249949,
+   "spend": 43140.31,
+   "whole": 0.38461538461538464,
+   "sole": 0.12174808201424608,
+   "composite": 0.45588235294117646,
+   "facility": false
+  },
+  {
+   "who": "CH-051",
+   "n": 1249,
+   "fd_mad": 0.016575863557685387,
+   "fd_z": 5.420306101674943,
+   "near": 0.0032025620496397116,
+   "fac": 0.13394117180562518,
+   "spend": 255597.51,
+   "whole": 0.24025974025974026,
+   "sole": 0.12279028070343877,
+   "composite": 0.7187500000000001,
+   "facility": false
+  },
+  {
+   "who": "CH-118",
+   "n": 263,
+   "fd_mad": 0.020780447633616996,
+   "fd_z": 1.5883761429516166,
+   "near": 0.022813688212927757,
+   "fac": 0.2736634329057841,
+   "spend": 117439.11,
+   "whole": 0.29850746268656714,
+   "sole": 0.07581034972080426,
+   "composite": 0.5654411764705882,
+   "facility": true
+  },
+  {
+   "who": "CH-023",
+   "n": 913,
+   "fd_mad": 0.023344152991260237,
+   "fd_z": 7.1013723431159725,
+   "near": 0.0032858707557502738,
+   "fac": 0.0018766021038503237,
+   "spend": 282105.62,
+   "whole": 0.47235387045813587,
+   "sole": 0.0701494000722141,
+   "composite": 0.6485294117647058,
+   "facility": false
+  },
+  {
+   "who": "CH-136",
+   "n": 297,
+   "fd_mad": 0.029705122379695224,
+   "fd_z": 4.683909256623287,
+   "near": 0.0,
+   "fac": 0.1788006530449467,
+   "spend": 64191.6,
+   "whole": 0.6666666666666666,
+   "sole": 0.003037780644196437,
+   "composite": 0.4547794117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-018",
+   "n": 1120,
+   "fd_mad": 0.011921623044633903,
+   "fd_z": 2.600608837338726,
+   "near": 0.014285714285714285,
+   "fac": 0.029939922633074878,
+   "spend": 608135.84,
+   "whole": 0.32004981320049813,
+   "sole": 0.03641780099656682,
+   "composite": 0.7625,
+   "facility": false
+  },
+  {
+   "who": "CH-050",
+   "n": 828,
+   "fd_mad": 0.012383263176064268,
+   "fd_z": 1.9099039689269683,
+   "near": 0.012077294685990338,
+   "fac": 0.03110426813772725,
+   "spend": 297213.23,
+   "whole": 0.1853448275862069,
+   "sole": 0.06653004645856445,
+   "composite": 0.61875,
+   "facility": false
+  },
+  {
+   "who": "CH-114",
+   "n": 381,
+   "fd_mad": 0.013288537794220703,
+   "fd_z": 0.323852053022764,
+   "near": 0.0026246719160104987,
+   "fac": 0.005882919476516945,
+   "spend": 64167.12,
+   "whole": 0.2345679012345679,
+   "sole": 0.022347894061631565,
+   "composite": 0.32683823529411765,
+   "facility": false
+  },
+  {
+   "who": "CH-129",
+   "n": 192,
+   "fd_mad": 0.047949728259343044,
+   "fd_z": 6.237220869860877,
+   "near": 0.020833333333333332,
+   "fac": 0.010900275069882674,
+   "spend": 76667.79,
+   "whole": 0.30337078651685395,
+   "sole": 0.08967925122140603,
+   "composite": 0.5830882352941177,
+   "facility": false
+  },
+  {
+   "who": "CH-074",
+   "n": 355,
+   "fd_mad": 0.016197601207274294,
+   "fd_z": 1.1230886898745396,
+   "near": 0.011267605633802818,
+   "fac": 0.0,
+   "spend": 124717.02,
+   "whole": 0.08294930875576037,
+   "sole": 0.0,
+   "composite": 0.2536764705882353,
+   "facility": true
+  },
+  {
+   "who": "CH-275",
+   "n": 145,
+   "fd_mad": 0.06427864876162169,
+   "fd_z": 8.69823415365264,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 14146.22,
+   "whole": 0.7674418604651163,
+   "sole": 0.0,
+   "composite": 0.31066176470588236,
+   "facility": false
+  },
+  {
+   "who": "CH-084",
+   "n": 278,
+   "fd_mad": 0.06188891771700275,
+   "fd_z": 12.170297190639744,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 183949.98,
+   "whole": 0.00819672131147541,
+   "sole": 0.18546683179851392,
+   "composite": 0.4051470588235294,
+   "facility": false
+  },
+  {
+   "who": "CH-200",
+   "n": 195,
+   "fd_mad": 0.02233424694136449,
+   "fd_z": 1.1780487855787707,
+   "near": 0.010256410256410256,
+   "fac": 0.18180953211598386,
+   "spend": 30269.04,
+   "whole": 0.6190476190476191,
+   "sole": 0.0,
+   "composite": 0.3628676470588235,
+   "facility": false
+  },
+  {
+   "who": "CH-033",
+   "n": 403,
+   "fd_mad": 0.024077970281626303,
+   "fd_z": 3.896126173840814,
+   "near": 0.03225806451612903,
+   "fac": 0.07552414431644444,
+   "spend": 310708.32,
+   "whole": 0.22522522522522523,
+   "sole": 0.01745463397954712,
+   "composite": 0.7080882352941177,
+   "facility": false
+  },
+  {
+   "who": "CH-330",
+   "n": 183,
+   "fd_mad": 0.039965404727979895,
+   "fd_z": 5.093144629847748,
+   "near": 0.0,
+   "fac": 0.0009420778884367097,
+   "spend": 14669.7,
+   "whole": 0.75,
+   "sole": 0.0,
+   "composite": 0.3080882352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-184",
+   "n": 120,
+   "fd_mad": 0.03354860717161803,
+   "fd_z": 1.8595780890527103,
+   "near": 0.0,
+   "fac": 0.271275854131849,
+   "spend": 27326.87,
+   "whole": 0.5692307692307692,
+   "sole": 0.0,
+   "composite": 0.3286764705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-203",
+   "n": 169,
+   "fd_mad": 0.021170068512346873,
+   "fd_z": 0.6155858407140626,
+   "near": 0.0,
+   "fac": 0.0695309340186554,
+   "spend": 34911.08,
+   "whole": 0.3888888888888889,
+   "sole": 0.020767045877698426,
+   "composite": 0.29448529411764707,
+   "facility": false
+  },
+  {
+   "who": "CH-237",
+   "n": 112,
+   "fd_mad": 0.028108458418073207,
+   "fd_z": 1.080102078851077,
+   "near": 0.0,
+   "fac": 0.003382088901539492,
+   "spend": 40507.51,
+   "whole": 0.328125,
+   "sole": 0.0,
+   "composite": 0.24117647058823527,
+   "facility": false
+  },
+  {
+   "who": "CH-093",
+   "n": 596,
+   "fd_mad": 0.007128818365400632,
+   "fd_z": -0.916834071497932,
+   "near": 0.0050335570469798654,
+   "fac": 0.0,
+   "spend": 133165.76,
+   "whole": 0.11020408163265306,
+   "sole": 0.0,
+   "composite": 0.2389705882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-055",
+   "n": 288,
+   "fd_mad": 0.021287869321556498,
+   "fd_z": 1.9444503487151532,
+   "near": 0.017361111111111112,
+   "fac": 0.15307001605109585,
+   "spend": 150631.46,
+   "whole": 0.16972477064220184,
+   "sole": 0.0,
+   "composite": 0.4444852941176471,
+   "facility": false
+  },
+  {
+   "who": "CH-065",
+   "n": 303,
+   "fd_mad": 0.025141631510588545,
+   "fd_z": 3.351796148392656,
+   "near": 0.07920792079207921,
+   "fac": 0.040783123736595664,
+   "spend": 236825.41,
+   "whole": 0.1864406779661017,
+   "sole": 0.11843251955100595,
+   "composite": 0.7327205882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-071",
+   "n": 810,
+   "fd_mad": 0.004500589566194704,
+   "fd_z": -1.6738009311039683,
+   "near": 0.0024691358024691358,
+   "fac": 0.0,
+   "spend": 128788.53,
+   "whole": 0.1709090909090909,
+   "sole": 0.0,
+   "composite": 0.21286764705882355,
+   "facility": true
+  },
+  {
+   "who": "CH-146",
+   "n": 198,
+   "fd_mad": 0.07564840254009754,
+   "fd_z": 13.13644730482321,
+   "near": 0.005050505050505051,
+   "fac": 0.21008542691206797,
+   "spend": 49215.17,
+   "whole": 0.696969696969697,
+   "sole": 0.02218828056471206,
+   "composite": 0.5404411764705882,
+   "facility": false
+  },
+  {
+   "who": "CH-137",
+   "n": 476,
+   "fd_mad": 0.015052775622029606,
+   "fd_z": 1.486897081323431,
+   "near": 0.004201680672268907,
+   "fac": 0.0024538690214427695,
+   "spend": 92095.38,
+   "whole": 0.09051724137931035,
+   "sole": 0.0,
+   "composite": 0.25698529411764703,
+   "facility": false
+  },
+  {
+   "who": "CH-064",
+   "n": 272,
+   "fd_mad": 0.03587574363837179,
+   "fd_z": 5.1392111717378395,
+   "near": 0.03676470588235294,
+   "fac": 0.02449099482222623,
+   "spend": 132093.45,
+   "whole": 0.5235294117647059,
+   "sole": 0.09582435768011206,
+   "composite": 0.6216911764705882,
+   "facility": false
+  },
+  {
+   "who": "CH-144",
+   "n": 380,
+   "fd_mad": 0.013598914120991373,
+   "fd_z": 0.4822713436160034,
+   "near": 0.007894736842105263,
+   "fac": 0.13855403623143167,
+   "spend": 81372.44,
+   "whole": 0.2552083333333333,
+   "sole": 0.037526464734251544,
+   "composite": 0.4602941176470588,
+   "facility": false
+  },
+  {
+   "who": "CH-092",
+   "n": 257,
+   "fd_mad": 0.024828611430940544,
+   "fd_z": 2.3868839621860696,
+   "near": 0.011673151750972763,
+   "fac": 0.053002110274330556,
+   "spend": 117430.23,
+   "whole": 0.24025974025974026,
+   "sole": 0.0,
+   "composite": 0.4452205882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-011",
+   "n": 756,
+   "fd_mad": 0.028162713203200074,
+   "fd_z": 7.772332036038678,
+   "near": 0.06878306878306878,
+   "fac": 0.0,
+   "spend": 480374.55,
+   "whole": 0.8615384615384616,
+   "sole": 0.023490440948630602,
+   "composite": 0.8047794117647059,
+   "facility": false
+  },
+  {
+   "who": "CH-049",
+   "n": 418,
+   "fd_mad": 0.03251101535249983,
+   "fd_z": 6.604498426750221,
+   "near": 0.045454545454545456,
+   "fac": 0.11041541204049475,
+   "spend": 256351.26,
+   "whole": 0.5290102389078498,
+   "sole": 0.03188203561004537,
+   "composite": 0.75,
+   "facility": false
+  },
+  {
+   "who": "CH-107",
+   "n": 410,
+   "fd_mad": 0.010633991563719022,
+   "fd_z": -0.273593808999394,
+   "near": 0.004878048780487805,
+   "fac": 0.03459440014389351,
+   "spend": 104076.96,
+   "whole": 0.11,
+   "sole": 0.0368774222459995,
+   "composite": 0.3602941176470588,
+   "facility": false
+  },
+  {
+   "who": "CH-087",
+   "n": 354,
+   "fd_mad": 0.012264950626010409,
+   "fd_z": -0.10944445530780722,
+   "near": 0.01694915254237288,
+   "fac": 0.026157425533570172,
+   "spend": 118383.21,
+   "whole": 0.2535885167464115,
+   "sole": 0.0,
+   "composite": 0.4625,
+   "facility": false
+  },
+  {
+   "who": "CH-176",
+   "n": 116,
+   "fd_mad": 0.022098117446548757,
+   "fd_z": -0.012013325168895868,
+   "near": 0.017241379310344827,
+   "fac": 0.17865979967164852,
+   "spend": 61251.44,
+   "whole": 0.3291139240506329,
+   "sole": 0.32225952565360094,
+   "composite": 0.46875,
+   "facility": false
+  },
+  {
+   "who": "CH-037",
+   "n": 312,
+   "fd_mad": 0.03266512213143496,
+   "fd_z": 5.529004230788887,
+   "near": 0.057692307692307696,
+   "fac": 0.017498512292938348,
+   "spend": 224876.26,
+   "whole": 0.34274193548387094,
+   "sole": 0.018843696528926618,
+   "composite": 0.6397058823529412,
+   "facility": false
+  },
+  {
+   "who": "CH-019",
+   "n": 729,
+   "fd_mad": 0.011382419011984545,
+   "fd_z": 1.1318429436806219,
+   "near": 0.03017832647462277,
+   "fac": 0.0035291715554581684,
+   "spend": 522632.57,
+   "whole": 0.2300556586270872,
+   "sole": 0.02835167735527849,
+   "composite": 0.6595588235294119,
+   "facility": false
+  },
+  {
+   "who": "CH-058",
+   "n": 253,
+   "fd_mad": 0.03000490900569806,
+   "fd_z": 3.7335597572956014,
+   "near": 0.08300395256916997,
+   "fac": 0.14363110073395627,
+   "spend": 237504.62,
+   "whole": 0.8423423423423423,
+   "sole": 0.03777286521836923,
+   "composite": 0.7466911764705882,
+   "facility": false
+  },
+  {
+   "who": "CH-017",
+   "n": 1211,
+   "fd_mad": 0.012616733768576464,
+   "fd_z": 3.3719928185270573,
+   "near": 0.0305532617671346,
+   "fac": 0.19816790937258788,
+   "spend": 559993.04,
+   "whole": 0.23149394347240915,
+   "sole": 0.009298954858438955,
+   "composite": 0.7643382352941177,
+   "facility": true
+  },
+  {
+   "who": "CH-163",
+   "n": 149,
+   "fd_mad": 0.03293842336048707,
+   "fd_z": 2.5761406064657315,
+   "near": 0.006711409395973154,
+   "fac": 0.07335356586916408,
+   "spend": 73736.02,
+   "whole": 0.651685393258427,
+   "sole": 0.05643212096340431,
+   "composite": 0.5338235294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-153",
+   "n": 144,
+   "fd_mad": 0.019038543916720507,
+   "fd_z": -0.0838507680595287,
+   "near": 0.013888888888888888,
+   "fac": 0.10245881201520475,
+   "spend": 58955.299999999996,
+   "whole": 0.34408602150537637,
+   "sole": 0.00806068326342161,
+   "composite": 0.3636029411764705,
+   "facility": false
+  },
+  {
+   "who": "CH-032",
+   "n": 435,
+   "fd_mad": 0.02722676809115826,
+   "fd_z": 5.238098695146101,
+   "near": 0.011494252873563218,
+   "fac": 0.018611149773446727,
+   "spend": 194130.94,
+   "whole": 0.24390243902439024,
+   "sole": 0.006986779129591604,
+   "composite": 0.5632352941176471,
+   "facility": false
+  },
+  {
+   "who": "CH-083",
+   "n": 234,
+   "fd_mad": 0.016072176334804466,
+   "fd_z": 0.27902130770808664,
+   "near": 0.0,
+   "fac": 0.09442418642875554,
+   "spend": 111654.02,
+   "whole": 0.2463768115942029,
+   "sole": 0.0022121908373742387,
+   "composite": 0.38419117647058826,
+   "facility": false
+  },
+  {
+   "who": "CH-015",
+   "n": 756,
+   "fd_mad": 0.021554367545223538,
+   "fd_z": 6.006819155879289,
+   "near": 0.08465608465608465,
+   "fac": 0.1771068779821359,
+   "spend": 715781.01,
+   "whole": 0.5489296636085627,
+   "sole": 0.026380833992787824,
+   "composite": 0.8764705882352941,
+   "facility": true
+  },
+  {
+   "who": "CH-035",
+   "n": 286,
+   "fd_mad": 0.044470149265058184,
+   "fd_z": 7.540891692978554,
+   "near": 0.017482517482517484,
+   "fac": 0.07906500596194241,
+   "spend": 140214.37,
+   "whole": 0.16842105263157894,
+   "sole": 0.017218563261383265,
+   "composite": 0.5595588235294118,
+   "facility": false
+  },
+  {
+   "who": "CH-116",
+   "n": 113,
+   "fd_mad": 0.039602394126443535,
+   "fd_z": 2.852868643824634,
+   "near": 0.12389380530973451,
+   "fac": 0.37505643913938574,
+   "spend": 117183.75,
+   "whole": 0.5463917525773195,
+   "sole": 0.0,
+   "composite": 0.5150735294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-147",
+   "n": 249,
+   "fd_mad": 0.011672760279884455,
+   "fd_z": -0.747510018452051,
+   "near": 0.024096385542168676,
+   "fac": 0.008253325205773083,
+   "spend": 84814.3,
+   "whole": 0.32894736842105265,
+   "sole": 0.0,
+   "composite": 0.41580882352941173,
+   "facility": false
+  },
+  {
+   "who": "CH-099",
+   "n": 126,
+   "fd_mad": 0.032393798113957886,
+   "fd_z": 2.0164825018719204,
+   "near": 0.1349206349206349,
+   "fac": 0.22016034624990055,
+   "spend": 150531.74,
+   "whole": 0.23333333333333334,
+   "sole": 0.11750040224075003,
+   "composite": 0.5452205882352942,
+   "facility": false
+  },
+  {
+   "who": "CH-154",
+   "n": 204,
+   "fd_mad": 0.0229218613685007,
+   "fd_z": 1.4551208055913272,
+   "near": 0.014705882352941176,
+   "fac": 0.05608066941682203,
+   "spend": 59022.12,
+   "whole": 0.27956989247311825,
+   "sole": 0.2464289659537814,
+   "composite": 0.43382352941176466,
+   "facility": false
+  },
+  {
+   "who": "CH-104",
+   "n": 288,
+   "fd_mad": 0.018133362355665532,
+   "fd_z": 1.153765244941627,
+   "near": 0.010416666666666666,
+   "fac": 0.001046184709600179,
+   "spend": 136123.19,
+   "whole": 0.2818181818181818,
+   "sole": 0.0,
+   "composite": 0.37720588235294117,
+   "facility": false
+  },
+  {
+   "who": "CH-052",
+   "n": 975,
+   "fd_mad": 0.0322564479119585,
+   "fd_z": 11.618449107950532,
+   "near": 0.0010256410256410256,
+   "fac": 0.03241159333184758,
+   "spend": 198327.8,
+   "whole": 0.1658878504672897,
+   "sole": 0.045941567445411086,
+   "composite": 0.5647058823529412,
+   "facility": false
+  },
+  {
+   "who": "CH-048",
+   "n": 1205,
+   "fd_mad": 0.024540136111167676,
+   "fd_z": 9.533504048809965,
+   "near": 0.004979253112033195,
+   "fac": 0.05534851555776682,
+   "spend": 282191.85,
+   "whole": 0.1797583081570997,
+   "sole": 0.13353174444974228,
+   "composite": 0.7246323529411764,
+   "facility": false
+  },
+  {
+   "who": "CH-026",
+   "n": 941,
+   "fd_mad": 0.0177055547641505,
+   "fd_z": 4.43706446496766,
+   "near": 0.04250797024442083,
+   "fac": 0.16683243896513075,
+   "spend": 473691.93,
+   "whole": 0.49907235621521334,
+   "sole": 0.056745277463350494,
+   "composite": 0.8514705882352942,
+   "facility": false
+  },
+  {
+   "who": "CH-044",
+   "n": 598,
+   "fd_mad": 0.020366274896273216,
+   "fd_z": 3.840962381024298,
+   "near": 0.05852842809364549,
+   "fac": 0.3053619463506661,
+   "spend": 339801.05,
+   "whole": 0.4197183098591549,
+   "sole": 0.16554957673026613,
+   "composite": 0.8025735294117646,
+   "facility": true
+  },
+  {
+   "who": "CH-056",
+   "n": 708,
+   "fd_mad": 0.024249364049026164,
+   "fd_z": 6.0923975692717685,
+   "near": 0.0014124293785310734,
+   "fac": 0.005712488536129798,
+   "spend": 124957.8,
+   "whole": 0.08450704225352113,
+   "sole": 0.0,
+   "composite": 0.3915441176470588,
+   "facility": false
+  },
+  {
+   "who": "CH-022",
+   "n": 1403,
+   "fd_mad": 0.0095721766492827,
+   "fd_z": 1.8046500070567115,
+   "near": 0.004989308624376337,
+   "fac": 0.04674880749522332,
+   "spend": 317527.03,
+   "whole": 0.13592233009708737,
+   "sole": 0.02896742365523968,
+   "composite": 0.5566176470588236,
+   "facility": false
+  },
+  {
+   "who": "CH-223",
+   "n": 140,
+   "fd_mad": 0.029836469302782123,
+   "fd_z": 1.6855436285442122,
+   "near": 0.007142857142857143,
+   "fac": 0.24463054519775815,
+   "spend": 43842.44,
+   "whole": 0.42727272727272725,
+   "sole": 0.023949396976993068,
+   "composite": 0.42022058823529407,
+   "facility": false
+  },
+  {
+   "who": "CH-046",
+   "n": 239,
+   "fd_mad": 0.029863387739678005,
+   "fd_z": 3.7140545203044533,
+   "near": 0.06694560669456066,
+   "fac": 0.0021989305391376377,
+   "spend": 181906.61,
+   "whole": 0.20625,
+   "sole": 0.005152424092780356,
+   "composite": 0.5444852941176471,
+   "facility": false
+  },
+  {
+   "who": "CH-228",
+   "n": 139,
+   "fd_mad": 0.013291224948702206,
+   "fd_z": -1.2616636753183723,
+   "near": 0.0,
+   "fac": 0.013182835031721914,
+   "spend": 34893.86,
+   "whole": 0.36363636363636365,
+   "sole": 0.0,
+   "composite": 0.30772058823529413,
+   "facility": false
+  },
+  {
+   "who": "CH-067",
+   "n": 184,
+   "fd_mad": 0.029722802895926895,
+   "fd_z": 2.6000501237459535,
+   "near": 0.05434782608695652,
+   "fac": 0.0,
+   "spend": 134661.17,
+   "whole": 0.39344262295081966,
+   "sole": 0.0,
+   "composite": 0.4886029411764706,
+   "facility": false
+  },
+  {
+   "who": "CH-217",
+   "n": 103,
+   "fd_mad": 0.023422892694443944,
+   "fd_z": 0.07694898277288507,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 47571.590000000004,
+   "whole": 0.45569620253164556,
+   "sole": 0.15303692813294656,
+   "composite": 0.31727941176470587,
+   "facility": false
+  },
+  {
+   "who": "CH-215",
+   "n": 118,
+   "fd_mad": 0.035862672272503886,
+   "fd_z": 2.526712245652039,
+   "near": 0.01694915254237288,
+   "fac": 0.0034809887251189596,
+   "spend": 48262.15,
+   "whole": 0.21428571428571427,
+   "sole": 0.0,
+   "composite": 0.3577205882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-057",
+   "n": 101,
+   "fd_mad": 0.07522979290621738,
+   "fd_z": 8.169692775889896,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 141226.94,
+   "whole": 0.09900990099009901,
+   "sole": 0.028354788399437104,
+   "composite": 0.4077205882352941,
+   "facility": false
+  },
+  {
+   "who": "CH-005",
+   "n": 1670,
+   "fd_mad": 0.02561711086369725,
+   "fd_z": 12.283590524078615,
+   "near": 0.0844311377245509,
+   "fac": 0.17355096451682286,
+   "spend": 1340560.34,
+   "whole": 0.35347432024169184,
+   "sole": 0.023949335991843526,
+   "composite": 0.9073529411764706,
+   "facility": true
+  },
+  {
+   "who": "CH-069",
+   "n": 275,
+   "fd_mad": 0.017903943811532135,
+   "fd_z": 0.8868168749774376,
+   "near": 0.007272727272727273,
+   "fac": 0.06200152209652803,
+   "spend": 126299.48,
+   "whole": 0.41836734693877553,
+   "sole": 0.16027484832083236,
+   "composite": 0.5691176470588235,
+   "facility": false
+  },
+  {
+   "who": "CH-004",
+   "n": 1022,
+   "fd_mad": 0.021609497211677542,
+   "fd_z": 7.093764218980841,
+   "near": 0.09882583170254403,
+   "fac": 0.004657565329407181,
+   "spend": 1088122.15,
+   "whole": 0.6942148760330579,
+   "sole": 0.0,
+   "composite": 0.7165441176470588,
+   "facility": false
+  },
+  {
+   "who": "CH-040",
+   "n": 121,
+   "fd_mad": 0.0453497844890038,
+   "fd_z": 3.5965522920343855,
+   "near": 0.03305785123966942,
+   "fac": 0.014134354519035911,
+   "spend": 355145.33,
+   "whole": 0.14655172413793102,
+   "sole": 0.02774517688293972,
+   "composite": 0.6363970588235294,
+   "facility": false
+  },
+  {
+   "who": "CH-245",
+   "n": 124,
+   "fd_mad": 0.0495919006051368,
+   "fd_z": 4.742969036732917,
+   "near": 0.0,
+   "fac": 0.06240644410351477,
+   "spend": 30035.52,
+   "whole": 0.6451612903225806,
+   "sole": 0.0,
+   "composite": 0.4216911764705882,
+   "facility": false
+  },
+  {
+   "who": "CH-180",
+   "n": 106,
+   "fd_mad": 0.039451486542482206,
+   "fd_z": 2.330206154550122,
+   "near": 0.02830188679245283,
+   "fac": 0.07948060595139535,
+   "spend": 64040.78,
+   "whole": 0.4461538461538462,
+   "sole": 0.0,
+   "composite": 0.46507352941176466,
+   "facility": false
+  },
+  {
+   "who": "CH-025",
+   "n": 561,
+   "fd_mad": 0.03375432904328098,
+   "fd_z": 8.129161447825718,
+   "near": 0.053475935828877004,
+   "fac": 0.012394494236361683,
+   "spend": 485898.81,
+   "whole": 0.17733990147783252,
+   "sole": 0.0,
+   "composite": 0.6569852941176471,
+   "facility": false
+  },
+  {
+   "who": "CH-210",
+   "n": 253,
+   "fd_mad": 0.05476573103151538,
+   "fd_z": 9.625660423413464,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 51179.55,
+   "whole": 0.9257425742574258,
+   "sole": 0.013146657209764446,
+   "composite": 0.40147058823529413,
+   "facility": false
+  },
+  {
+   "who": "CH-014",
+   "n": 561,
+   "fd_mad": 0.058313647720246706,
+   "fd_z": 17.426181809419404,
+   "near": 0.21212121212121213,
+   "fac": 0.6815218798534168,
+   "spend": 696249.18,
+   "whole": 0.5454545454545454,
+   "sole": 0.011379546615767648,
+   "composite": 0.9102941176470589,
+   "facility": true
+  },
+  {
+   "who": "CH-010",
+   "n": 1271,
+   "fd_mad": 0.013214246918665802,
+   "fd_z": 4.0010879985884005,
+   "near": 0.013375295043273014,
+   "fac": 0.027094696000454468,
+   "spend": 823823.6,
+   "whole": 0.30903790087463556,
+   "sole": 0.008378189214292963,
+   "composite": 0.7540441176470589,
+   "facility": false
+  },
+  {
+   "who": "CH-232",
+   "n": 103,
+   "fd_mad": 0.03131969733819276,
+   "fd_z": 1.2883807176724016,
+   "near": 0.0,
+   "fac": 0.05549362479443566,
+   "spend": 34581.63,
+   "whole": 0.4044943820224719,
+   "sole": 0.052947764463387066,
+   "composite": 0.3099264705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-123",
+   "n": 221,
+   "fd_mad": 0.02881463114750265,
+   "fd_z": 2.8749444344019377,
+   "near": 0.05429864253393665,
+   "fac": 0.06806038001292918,
+   "spend": 113046.68,
+   "whole": 0.10828025477707007,
+   "sole": 0.0,
+   "composite": 0.47095588235294117,
+   "facility": false
+  },
+  {
+   "who": "CH-151",
+   "n": 114,
+   "fd_mad": 0.04644158067422115,
+   "fd_z": 4.047673262947275,
+   "near": 0.008771929824561403,
+   "fac": 0.08713202379343636,
+   "spend": 77774.39,
+   "whole": 0.5185185185185185,
+   "sole": 0.1476515598515141,
+   "composite": 0.5330882352941175,
+   "facility": false
+  },
+  {
+   "who": "CH-166",
+   "n": 171,
+   "fd_mad": 0.01661171789785489,
+   "fd_z": -0.34559740597439953,
+   "near": 0.0,
+   "fac": 0.0719045759719146,
+   "spend": 72350.75,
+   "whole": 0.24770642201834864,
+   "sole": 0.10347218238926341,
+   "composite": 0.40698529411764706,
+   "facility": false
+  },
+  {
+   "who": "CH-100",
+   "n": 118,
+   "fd_mad": 0.028746347284612377,
+   "fd_z": 1.2965926120095297,
+   "near": 0.01694915254237288,
+   "fac": 0.004750461664976166,
+   "spend": 71891.96,
+   "whole": 0.18556701030927836,
+   "sole": 0.0038452144022780846,
+   "composite": 0.33455882352941174,
+   "facility": false
+  },
+  {
+   "who": "CH-029",
+   "n": 721,
+   "fd_mad": 0.041906679744805914,
+   "fd_z": 13.631752199531311,
+   "near": 0.05825242718446602,
+   "fac": 0.2764930005207614,
+   "spend": 366232.96,
+   "whole": 0.17562724014336917,
+   "sole": 0.04811249102210789,
+   "composite": 0.8128676470588235,
+   "facility": true
+  },
+  {
+   "who": "CH-008",
+   "n": 1214,
+   "fd_mad": 0.0318918563987558,
+   "fd_z": 12.817837976703819,
+   "near": 0.11696869851729819,
+   "fac": 0.32084536848636264,
+   "spend": 1237659.1,
+   "whole": 0.405189620758483,
+   "sole": 0.10017983950507858,
+   "composite": 0.925,
+   "facility": true
+  },
+  {
+   "who": "CH-174",
+   "n": 163,
+   "fd_mad": 0.03873260486045292,
+   "fd_z": 4.144338063003076,
+   "near": 0.006134969325153374,
+   "fac": 0.0,
+   "spend": 53098.06,
+   "whole": 0.2894736842105263,
+   "sole": 0.0007855277575112914,
+   "composite": 0.3602941176470588,
+   "facility": false
+  },
+  {
+   "who": "CH-028",
+   "n": 233,
+   "fd_mad": 0.02191713810696705,
+   "fd_z": 1.5786494672241496,
+   "near": 0.060085836909871244,
+   "fac": 0.0,
+   "spend": 227700.06,
+   "whole": 0.30927835051546393,
+   "sole": 0.03800714852688225,
+   "composite": 0.4830882352941176,
+   "facility": false
+  },
+  {
+   "who": "CH-182",
+   "n": 110,
+   "fd_mad": 0.023366661848867997,
+   "fd_z": 0.08855290536358486,
+   "near": 0.00909090909090909,
+   "fac": 0.0,
+   "spend": 22828.87,
+   "whole": 0.0784313725490196,
+   "sole": 0.0,
+   "composite": 0.12463235294117647,
+   "facility": false
+  },
+  {
+   "who": "CH-124",
+   "n": 370,
+   "fd_mad": 0.037701301774732146,
+   "fd_z": 7.593086535276299,
+   "near": 0.008108108108108109,
+   "fac": 0.2025903120083913,
+   "spend": 112506.91,
+   "whole": 0.46153846153846156,
+   "sole": 0.0,
+   "composite": 0.5374999999999999,
+   "facility": false
+  },
+  {
+   "who": "CH-133",
+   "n": 229,
+   "fd_mad": 0.03314109060843634,
+   "fd_z": 3.832128939542319,
+   "near": 0.0,
+   "fac": 0.02960768572395353,
+   "spend": 60288.4,
+   "whole": 0.3904109589041096,
+   "sole": 0.0,
+   "composite": 0.33897058823529413,
+   "facility": false
+  },
+  {
+   "who": "CH-312",
+   "n": 159,
+   "fd_mad": 0.04993366683598325,
+   "fd_z": 6.3098651453757,
+   "near": 0.0,
+   "fac": 0.0,
+   "spend": 18430.89,
+   "whole": 0.23076923076923078,
+   "sole": 0.0021203533849966007,
+   "composite": 0.2661764705882353,
+   "facility": false
+  },
+  {
+   "who": "CH-054",
+   "n": 851,
+   "fd_mad": 0.008993402089939491,
+   "fd_z": 0.4697346365940535,
+   "near": 0.009400705052878966,
+   "fac": 0.03908979394153905,
+   "spend": 255408.1,
+   "whole": 0.49417249417249415,
+   "sole": 0.022302307561898,
+   "composite": 0.6316176470588235,
+   "facility": false
+  },
+  {
+   "who": "CH-141",
+   "n": 299,
+   "fd_mad": 0.01829673649277933,
+   "fd_z": 1.2116413498082557,
+   "near": 0.010033444816053512,
+   "fac": 0.012640171465129437,
+   "spend": 74324.15,
+   "whole": 0.20689655172413793,
+   "sole": 0.04164756677338389,
+   "composite": 0.3650735294117647,
+   "facility": false
+  },
+  {
+   "who": "Ybarra",
+   "n": 973,
+   "fd_mad": 0.07255069200384198,
+   "fd_z": 31.520696104501237,
+   "near": 0.34121274409044194,
+   "fac": 0.7689343209158547,
+   "spend": 1335129.61,
+   "whole": 0.5504807692307693,
+   "sole": 0.07194682769412926,
+   "composite": 0.9400735294117647,
+   "facility": true
+  }
+ ],
+ "composite_pct_subject": {
+  "benford_fd_z": 1.0,
+  "near_limit": 1.0,
+  "whole_dollar": 0.7764705882352941,
+  "facilitator": 1.0,
+  "sole_vendor": 0.9941176470588236,
+  "split": 0.8970588235294118,
+  "weekend": 1.0,
+  "mismatch": 0.8529411764705882
+ },
+ "timeline": [
+  {
+   "quarter": "2018Q2",
+   "eligible": 12,
+   "subject_n": 118,
+   "total_spend": 3,
+   "benford_fd": 3,
+   "benford_fd_z": 4,
+   "benford_f2_z": 7,
+   "near_limit": 2,
+   "whole_dollar": 4,
+   "facilitator": 1,
+   "sole_vendor": 4,
+   "split": 3,
+   "weekend": 4,
+   "mismatch": 10,
+   "composite": 2
+  },
+  {
+   "quarter": "2018Q3",
+   "eligible": 37,
+   "subject_n": 174,
+   "total_spend": 4,
+   "benford_fd": 10,
+   "benford_fd_z": 8,
+   "benford_f2_z": 24,
+   "near_limit": 3,
+   "whole_dollar": 14,
+   "facilitator": 1,
+   "sole_vendor": 6,
+   "split": 4,
+   "weekend": 4,
+   "mismatch": 19,
+   "composite": 3
+  },
+  {
+   "quarter": "2018Q4",
+   "eligible": 49,
+   "subject_n": 237,
+   "total_spend": 5,
+   "benford_fd": 12,
+   "benford_fd_z": 8,
+   "benford_f2_z": 22,
+   "near_limit": 3,
+   "whole_dollar": 17,
+   "facilitator": 1,
+   "sole_vendor": 22,
+   "split": 6,
+   "weekend": 3,
+   "mismatch": 18,
+   "composite": 5
+  },
+  {
+   "quarter": "2019Q1",
+   "eligible": 57,
+   "subject_n": 301,
+   "total_spend": 5,
+   "benford_fd": 15,
+   "benford_fd_z": 10,
+   "benford_f2_z": 20,
+   "near_limit": 2,
+   "whole_dollar": 19,
+   "facilitator": 1,
+   "sole_vendor": 43,
+   "split": 12,
+   "weekend": 3,
+   "mismatch": 20,
+   "composite": 7
+  },
+  {
+   "quarter": "2019Q2",
+   "eligible": 70,
+   "subject_n": 352,
+   "total_spend": 4,
+   "benford_fd": 12,
+   "benford_fd_z": 7,
+   "benford_f2_z": 16,
+   "near_limit": 2,
+   "whole_dollar": 26,
+   "facilitator": 1,
+   "sole_vendor": 7,
+   "split": 18,
+   "weekend": 2,
+   "mismatch": 21,
+   "composite": 2
+  },
+  {
+   "quarter": "2019Q3",
+   "eligible": 77,
+   "subject_n": 395,
+   "total_spend": 4,
+   "benford_fd": 10,
+   "benford_fd_z": 3,
+   "benford_f2_z": 12,
+   "near_limit": 2,
+   "whole_dollar": 28,
+   "facilitator": 1,
+   "sole_vendor": 5,
+   "split": 16,
+   "weekend": 2,
+   "mismatch": 23,
+   "composite": 1
+  },
+  {
+   "quarter": "2019Q4",
+   "eligible": 90,
+   "subject_n": 433,
+   "total_spend": 5,
+   "benford_fd": 10,
+   "benford_fd_z": 4,
+   "benford_f2_z": 13,
+   "near_limit": 2,
+   "whole_dollar": 34,
+   "facilitator": 1,
+   "sole_vendor": 3,
+   "split": 18,
+   "weekend": 2,
+   "mismatch": 25,
+   "composite": 1
+  },
+  {
+   "quarter": "2020Q1",
+   "eligible": 97,
+   "subject_n": 471,
+   "total_spend": 5,
+   "benford_fd": 9,
+   "benford_fd_z": 3,
+   "benford_f2_z": 12,
+   "near_limit": 2,
+   "whole_dollar": 31,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 14,
+   "weekend": 2,
+   "mismatch": 28,
+   "composite": 2
+  },
+  {
+   "quarter": "2020Q2",
+   "eligible": 102,
+   "subject_n": 517,
+   "total_spend": 5,
+   "benford_fd": 9,
+   "benford_fd_z": 2,
+   "benford_f2_z": 12,
+   "near_limit": 2,
+   "whole_dollar": 40,
+   "facilitator": 1,
+   "sole_vendor": 1,
+   "split": 16,
+   "weekend": 1,
+   "mismatch": 31,
+   "composite": 3
+  },
+  {
+   "quarter": "2020Q3",
+   "eligible": 106,
+   "subject_n": 551,
+   "total_spend": 4,
+   "benford_fd": 6,
+   "benford_fd_z": 2,
+   "benford_f2_z": 11,
+   "near_limit": 2,
+   "whole_dollar": 37,
+   "facilitator": 1,
+   "sole_vendor": 3,
+   "split": 18,
+   "weekend": 1,
+   "mismatch": 31,
+   "composite": 3
+  },
+  {
+   "quarter": "2020Q4",
+   "eligible": 109,
+   "subject_n": 580,
+   "total_spend": 4,
+   "benford_fd": 7,
+   "benford_fd_z": 1,
+   "benford_f2_z": 10,
+   "near_limit": 2,
+   "whole_dollar": 32,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 19,
+   "weekend": 1,
+   "mismatch": 31,
+   "composite": 2
+  },
+  {
+   "quarter": "2021Q1",
+   "eligible": 119,
+   "subject_n": 617,
+   "total_spend": 3,
+   "benford_fd": 5,
+   "benford_fd_z": 1,
+   "benford_f2_z": 8,
+   "near_limit": 2,
+   "whole_dollar": 35,
+   "facilitator": 1,
+   "sole_vendor": 3,
+   "split": 20,
+   "weekend": 1,
+   "mismatch": 32,
+   "composite": 2
+  },
+  {
+   "quarter": "2021Q2",
+   "eligible": 122,
+   "subject_n": 651,
+   "total_spend": 3,
+   "benford_fd": 4,
+   "benford_fd_z": 1,
+   "benford_f2_z": 6,
+   "near_limit": 2,
+   "whole_dollar": 34,
+   "facilitator": 1,
+   "sole_vendor": 1,
+   "split": 20,
+   "weekend": 1,
+   "mismatch": 35,
+   "composite": 3
+  },
+  {
+   "quarter": "2021Q3",
+   "eligible": 130,
+   "subject_n": 696,
+   "total_spend": 3,
+   "benford_fd": 5,
+   "benford_fd_z": 1,
+   "benford_f2_z": 7,
+   "near_limit": 2,
+   "whole_dollar": 37,
+   "facilitator": 1,
+   "sole_vendor": 3,
+   "split": 20,
+   "weekend": 1,
+   "mismatch": 30,
+   "composite": 3
+  },
+  {
+   "quarter": "2021Q4",
+   "eligible": 134,
+   "subject_n": 728,
+   "total_spend": 4,
+   "benford_fd": 4,
+   "benford_fd_z": 1,
+   "benford_f2_z": 6,
+   "near_limit": 2,
+   "whole_dollar": 34,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 18,
+   "weekend": 1,
+   "mismatch": 32,
+   "composite": 2
+  },
+  {
+   "quarter": "2022Q1",
+   "eligible": 139,
+   "subject_n": 761,
+   "total_spend": 4,
+   "benford_fd": 4,
+   "benford_fd_z": 1,
+   "benford_f2_z": 5,
+   "near_limit": 2,
+   "whole_dollar": 33,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 17,
+   "weekend": 1,
+   "mismatch": 34,
+   "composite": 1
+  },
+  {
+   "quarter": "2022Q2",
+   "eligible": 144,
+   "subject_n": 799,
+   "total_spend": 4,
+   "benford_fd": 4,
+   "benford_fd_z": 1,
+   "benford_f2_z": 4,
+   "near_limit": 2,
+   "whole_dollar": 36,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 18,
+   "weekend": 1,
+   "mismatch": 36,
+   "composite": 1
+  },
+  {
+   "quarter": "2022Q3",
+   "eligible": 149,
+   "subject_n": 846,
+   "total_spend": 4,
+   "benford_fd": 4,
+   "benford_fd_z": 1,
+   "benford_f2_z": 4,
+   "near_limit": 2,
+   "whole_dollar": 39,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 18,
+   "weekend": 1,
+   "mismatch": 30,
+   "composite": 1
+  },
+  {
+   "quarter": "2022Q4",
+   "eligible": 153,
+   "subject_n": 879,
+   "total_spend": 4,
+   "benford_fd": 5,
+   "benford_fd_z": 1,
+   "benford_f2_z": 4,
+   "near_limit": 2,
+   "whole_dollar": 39,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 19,
+   "weekend": 1,
+   "mismatch": 28,
+   "composite": 1
+  },
+  {
+   "quarter": "2023Q1",
+   "eligible": 161,
+   "subject_n": 917,
+   "total_spend": 5,
+   "benford_fd": 5,
+   "benford_fd_z": 1,
+   "benford_f2_z": 4,
+   "near_limit": 1,
+   "whole_dollar": 40,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 20,
+   "weekend": 1,
+   "mismatch": 25,
+   "composite": 1
+  },
+  {
+   "quarter": "2023Q2",
+   "eligible": 166,
+   "subject_n": 944,
+   "total_spend": 5,
+   "benford_fd": 5,
+   "benford_fd_z": 1,
+   "benford_f2_z": 4,
+   "near_limit": 1,
+   "whole_dollar": 41,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 18,
+   "weekend": 1,
+   "mismatch": 27,
+   "composite": 1
+  },
+  {
+   "quarter": "2023Q3",
+   "eligible": 170,
+   "subject_n": 973,
+   "total_spend": 5,
+   "benford_fd": 5,
+   "benford_fd_z": 1,
+   "benford_f2_z": 4,
+   "near_limit": 1,
+   "whole_dollar": 39,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 17,
+   "weekend": 1,
+   "mismatch": 26,
+   "composite": 1
+  }
+ ],
+ "annual": [
+  {
+   "fy": 2018,
+   "eligible": 73,
+   "subject_n": 174,
+   "total_spend": 4,
+   "benford_fd": 20,
+   "benford_fd_z": 9,
+   "near_limit": 3,
+   "whole_dollar": 21,
+   "facilitator": 1,
+   "sole_vendor": 10,
+   "split": 4,
+   "weekend": 4,
+   "mismatch": 30
+  },
+  {
+   "fy": 2019,
+   "eligible": 88,
+   "subject_n": 221,
+   "total_spend": 4,
+   "benford_fd": 15,
+   "benford_fd_z": 3,
+   "near_limit": 2,
+   "whole_dollar": 35,
+   "facilitator": 1,
+   "sole_vendor": 1,
+   "split": 20,
+   "weekend": 1,
+   "mismatch": 23
+  },
+  {
+   "fy": 2020,
+   "eligible": 72,
+   "subject_n": 156,
+   "total_spend": 5,
+   "benford_fd": 4,
+   "benford_fd_z": 3,
+   "near_limit": 3,
+   "whole_dollar": 16,
+   "facilitator": 1,
+   "sole_vendor": 5,
+   "split": 17,
+   "weekend": 1,
+   "mismatch": 42
+  },
+  {
+   "fy": 2021,
+   "eligible": 61,
+   "subject_n": 145,
+   "total_spend": 4,
+   "benford_fd": 2,
+   "benford_fd_z": 1,
+   "near_limit": 1,
+   "whole_dollar": 7,
+   "facilitator": 1,
+   "sole_vendor": 1,
+   "split": 24,
+   "weekend": 1,
+   "mismatch": 38
+  },
+  {
+   "fy": 2022,
+   "eligible": 75,
+   "subject_n": 150,
+   "total_spend": 5,
+   "benford_fd": 2,
+   "benford_fd_z": 1,
+   "near_limit": 2,
+   "whole_dollar": 4,
+   "facilitator": 1,
+   "sole_vendor": 2,
+   "split": 13,
+   "weekend": 4,
+   "mismatch": 16
+  },
+  {
+   "fy": 2023,
+   "eligible": 74,
+   "subject_n": 127,
+   "total_spend": 4,
+   "benford_fd": 2,
+   "benford_fd_z": 2,
+   "near_limit": 3,
+   "whole_dollar": 7,
+   "facilitator": 1,
+   "sole_vendor": 15,
+   "split": 17,
+   "weekend": 60,
+   "mismatch": 17
+  }
+ ],
+ "subject_by_year": [
+  {
+   "year": 2018,
+   "n": 237,
+   "spend": 187584.56,
+   "fac_dollars": 90574.59,
+   "fac_n": 39,
+   "near_n": 24
+  },
+  {
+   "year": 2019,
+   "n": 196,
+   "spend": 236991.83000000002,
+   "fac_dollars": 164257.19,
+   "fac_n": 64,
+   "near_n": 51
+  },
+  {
+   "year": 2020,
+   "n": 147,
+   "spend": 228268.52,
+   "fac_dollars": 168126.52,
+   "fac_n": 62,
+   "near_n": 59
+  },
+  {
+   "year": 2021,
+   "n": 148,
+   "spend": 275143.77,
+   "fac_dollars": 250181.68,
+   "fac_n": 90,
+   "near_n": 79
+  },
+  {
+   "year": 2022,
+   "n": 151,
+   "spend": 258373.08000000002,
+   "fac_dollars": 223943.0,
+   "fac_n": 81,
+   "near_n": 78
+  },
+  {
+   "year": 2023,
+   "n": 94,
+   "spend": 148767.84999999998,
+   "fac_dollars": 129544.0,
+   "fac_n": 47,
+   "near_n": 41
+  }
+ ],
+ "subject_fac_by_fy": [
+  {
+   "fy": 2018,
+   "dollars": 65895.62,
+   "n": 29
+  },
+  {
+   "fy": 2019,
+   "dollars": 154196.15999999997,
+   "n": 61
+  },
+  {
+   "fy": 2020,
+   "dollars": 150265.52,
+   "n": 55
+  },
+  {
+   "fy": 2021,
+   "dollars": 233447.68,
+   "n": 85
+  },
+  {
+   "fy": 2022,
+   "dollars": 241081.0,
+   "n": 87
+  },
+  {
+   "fy": 2023,
+   "dollars": 181741.0,
+   "n": 66
+  }
+ ],
+ "hist": {
+  "edges": [
+   0,
+   100,
+   200,
+   300,
+   400,
+   500,
+   600,
+   700,
+   800,
+   900,
+   1000,
+   1100,
+   1200,
+   1300,
+   1400,
+   1500,
+   1600,
+   1700,
+   1800,
+   1900,
+   2000,
+   2100,
+   2200,
+   2300,
+   2400,
+   2500,
+   2600,
+   2700,
+   2800,
+   2900,
+   3000,
+   3100
+  ],
+  "subject": [
+   141,
+   116,
+   83,
+   61,
+   29,
+   31,
+   23,
+   11,
+   10,
+   7,
+   10,
+   11,
+   6,
+   5,
+   5,
+   9,
+   4,
+   7,
+   6,
+   4,
+   4,
+   6,
+   2,
+   6,
+   8,
+   14,
+   22,
+   46,
+   142,
+   140,
+   4
+  ],
+  "facility": [
+   2728,
+   1586,
+   804,
+   502,
+   579,
+   323,
+   270,
+   224,
+   225,
+   175,
+   156,
+   112,
+   122,
+   93,
+   93,
+   117,
+   99,
+   86,
+   72,
+   83,
+   90,
+   81,
+   110,
+   95,
+   111,
+   116,
+   104,
+   136,
+   236,
+   399,
+   51
+  ],
+  "others": [
+   25480,
+   11994,
+   7101,
+   4641,
+   3394,
+   2529,
+   1989,
+   1570,
+   1374,
+   1214,
+   1042,
+   807,
+   839,
+   638,
+   599,
+   671,
+   483,
+   542,
+   513,
+   484,
+   455,
+   396,
+   559,
+   391,
+   467,
+   465,
+   388,
+   473,
+   592,
+   1332,
+   294
+  ]
+ },
+ "subject_split": {
+  "fac_n": 383,
+  "fac_dollars": 1026626.9799999999,
+  "fac_payees": 44,
+  "fac_whole_dollar_share": 0.9634464751958225,
+  "fac_near_limit_share": 0.8067885117493473,
+  "fac_median": 2860.0,
+  "fac_weekend_share": 0.19843342036553524,
+  "other_n": 590,
+  "other_dollars": 308502.63,
+  "other_whole_dollar_share": 0.19777777777777777,
+  "other_near_limit_share": 0.03898305084745763,
+  "other_median": 235.86,
+  "other_weekend_share": 0.13559322033898305,
+  "exact_2900": 77,
+  "top_amounts": {
+   "2900.0": 77,
+   "2800.0": 39,
+   "2890.0": 21,
+   "2950.0": 19,
+   "2880.0": 17,
+   "2850.0": 15,
+   "2860.0": 13,
+   "2870.0": 10
+  },
+  "near_n": 332,
+  "near_dollars": 952545.03,
+  "weekend_n": 156,
+  "weekend_dollars": 239259.06,
+  "over_limit_n": 0
+ },
+ "subject_fac_by_manager": [
+  {
+   "manager": "(no sign-off)",
+   "n": 8,
+   "dollars": 21640.0,
+   "first": "2023-08-04",
+   "last": "2023-08-25"
+  },
+  {
+   "manager": "MGR-040",
+   "n": 79,
+   "dollars": 219097.0,
+   "first": "2022-06-14",
+   "last": "2023-06-23"
+  },
+  {
+   "manager": "MGR-051",
+   "n": 6,
+   "dollars": 14720.0,
+   "first": "2023-07-11",
+   "last": "2023-07-21"
+  },
+  {
+   "manager": "MGR-194",
+   "n": 290,
+   "dollars": 771169.98,
+   "first": "2018-01-18",
+   "last": "2022-05-27"
+  }
+ ],
+ "subject_payees": [
+  {
+   "descriptor": "Payee 01 (PayPal)",
+   "n": 37,
+   "dollars": 102104.0,
+   "median": 2850.0,
+   "first": "2018-01-17",
+   "last": "2021-12-20",
+   "mcc": "CLEANING AND MAINTENANCE, JANITORIAL SER",
+   "other_users": 4
+  },
+  {
+   "descriptor": "Payee 02 (PayPal)",
+   "n": 33,
+   "dollars": 83457.0,
+   "median": 2850.0,
+   "first": "2018-02-15",
+   "last": "2023-06-22",
+   "mcc": "CLEANING AND MAINTENANCE, JANITORIAL SER",
+   "other_users": 5
+  },
+  {
+   "descriptor": "Payee 03 (Square)",
+   "n": 29,
+   "dollars": 81592.0,
+   "median": 2870.0,
+   "first": "2019-10-06",
+   "last": "2022-02-17",
+   "mcc": "CLEANING AND MAINTENANCE, JANITORIAL SER",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 04 (Square)",
+   "n": 29,
+   "dollars": 81542.0,
+   "median": 2850.0,
+   "first": "2018-01-19",
+   "last": "2021-12-03",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 05 (PayPal)",
+   "n": 24,
+   "dollars": 68965.0,
+   "median": 2887.5,
+   "first": "2019-10-08",
+   "last": "2023-07-19",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 06 (Square)",
+   "n": 24,
+   "dollars": 68025.0,
+   "median": 2800.0,
+   "first": "2018-12-15",
+   "last": "2021-06-25",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 1
+  },
+  {
+   "descriptor": "Payee 07 (PayPal)",
+   "n": 27,
+   "dollars": 64385.0,
+   "median": 2800.0,
+   "first": "2018-03-03",
+   "last": "2023-07-19",
+   "mcc": "ADVERTISING SERVICES",
+   "other_users": 7
+  },
+  {
+   "descriptor": "Payee 08 (PayPal)",
+   "n": 21,
+   "dollars": 60906.0,
+   "median": 2900.0,
+   "first": "2020-01-16",
+   "last": "2022-09-07",
+   "mcc": "TELECOMMUNICATION EQUIPMENT INCLUDING TE",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 09 (Square)",
+   "n": 19,
+   "dollars": 52377.0,
+   "median": 2875.0,
+   "first": "2018-09-17",
+   "last": "2023-08-24",
+   "mcc": "MISCELLANEOUS PERSONAL SERVICES",
+   "other_users": 4
+  },
+  {
+   "descriptor": "Payee 10 (Square)",
+   "n": 17,
+   "dollars": 48670.0,
+   "median": 2900.0,
+   "first": "2022-08-25",
+   "last": "2023-08-15",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 4
+  },
+  {
+   "descriptor": "Payee 11 (Square)",
+   "n": 15,
+   "dollars": 43140.0,
+   "median": 2900.0,
+   "first": "2022-01-20",
+   "last": "2023-08-24",
+   "mcc": "MISCELLANEOUS PERSONAL SERVICES",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 12 (PayPal)",
+   "n": 14,
+   "dollars": 40471.0,
+   "median": 2900.0,
+   "first": "2022-08-18",
+   "last": "2023-08-24",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 4
+  },
+  {
+   "descriptor": "Payee 13 (Square)",
+   "n": 11,
+   "dollars": 31740.0,
+   "median": 2900.0,
+   "first": "2019-05-22",
+   "last": "2023-05-18",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 14 (Square)",
+   "n": 9,
+   "dollars": 25003.84,
+   "median": 2800.0,
+   "first": "2019-02-08",
+   "last": "2023-03-13",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 5
+  },
+  {
+   "descriptor": "Payee 15 (Square)",
+   "n": 9,
+   "dollars": 21329.27,
+   "median": 2654.89,
+   "first": "2018-01-24",
+   "last": "2019-06-12",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 16 (PayPal)",
+   "n": 5,
+   "dollars": 14460.0,
+   "median": 2900.0,
+   "first": "2022-02-03",
+   "last": "2022-05-19",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 1
+  },
+  {
+   "descriptor": "Payee 17 (PayPal)",
+   "n": 5,
+   "dollars": 14370.0,
+   "median": 2900.0,
+   "first": "2020-09-09",
+   "last": "2023-03-13",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 18 (PayPal)",
+   "n": 6,
+   "dollars": 14120.0,
+   "median": 2815.0,
+   "first": "2021-06-17",
+   "last": "2023-08-15",
+   "mcc": "PAINTS,VARNISHES AND SUPPLIES",
+   "other_users": 6
+  },
+  {
+   "descriptor": "Payee 19 (PayPal)",
+   "n": 4,
+   "dollars": 11490.0,
+   "median": 2890.0,
+   "first": "2022-10-26",
+   "last": "2023-07-19",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 20 (Square)",
+   "n": 4,
+   "dollars": 10500.0,
+   "median": 2800.0,
+   "first": "2018-05-15",
+   "last": "2019-07-20",
+   "mcc": "MISCELLANEOUS PERSONAL SERVICES",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 21 (Square)",
+   "n": 4,
+   "dollars": 10159.85,
+   "median": 2612.81,
+   "first": "2020-01-27",
+   "last": "2020-03-31",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 1
+  },
+  {
+   "descriptor": "Payee 22 (PayPal)",
+   "n": 4,
+   "dollars": 9250.0,
+   "median": 2850.0,
+   "first": "2020-03-25",
+   "last": "2020-10-14",
+   "mcc": "CARPENTRY",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 23 (PayPal)",
+   "n": 4,
+   "dollars": 8800.0,
+   "median": 2250.0,
+   "first": "2018-03-02",
+   "last": "2021-06-25",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 5
+  },
+  {
+   "descriptor": "Payee 24 (Square)",
+   "n": 3,
+   "dollars": 7290.0,
+   "median": 2780.0,
+   "first": "2018-01-29",
+   "last": "2018-04-09",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 4
+  },
+  {
+   "descriptor": "Payee 25 (PayPal)",
+   "n": 2,
+   "dollars": 5695.67,
+   "median": 2847.835,
+   "first": "2020-07-07",
+   "last": "2020-10-24",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 26 (Square)",
+   "n": 2,
+   "dollars": 4877.25,
+   "median": 2438.625,
+   "first": "2019-05-08",
+   "last": "2021-01-11",
+   "mcc": "HEATING, PLUMBING, AIR CONDITIONING CONT",
+   "other_users": 6
+  },
+  {
+   "descriptor": "Payee 27 (Square)",
+   "n": 2,
+   "dollars": 4350.0,
+   "median": 2175.0,
+   "first": "2018-08-14",
+   "last": "2018-11-17",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 28 (Square)",
+   "n": 2,
+   "dollars": 3976.0,
+   "median": 1988.0,
+   "first": "2018-01-29",
+   "last": "2020-11-17",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 29 (PayPal)",
+   "n": 2,
+   "dollars": 3514.92,
+   "median": 1757.46,
+   "first": "2019-01-12",
+   "last": "2019-04-11",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 30 (PayPal)",
+   "n": 2,
+   "dollars": 3300.0,
+   "median": 1650.0,
+   "first": "2018-09-29",
+   "last": "2018-10-12",
+   "mcc": "CONSTRUCTION MATERIALS",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 31 (Square)",
+   "n": 1,
+   "dollars": 2989.0,
+   "median": 2989.0,
+   "first": "2019-03-22",
+   "last": "2019-03-22",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 5
+  },
+  {
+   "descriptor": "Payee 32 (Square)",
+   "n": 1,
+   "dollars": 2960.0,
+   "median": 2960.0,
+   "first": "2023-08-24",
+   "last": "2023-08-24",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 33 (Square)",
+   "n": 1,
+   "dollars": 2950.0,
+   "median": 2950.0,
+   "first": "2023-06-13",
+   "last": "2023-06-13",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 1
+  },
+  {
+   "descriptor": "Payee 34 (Square)",
+   "n": 1,
+   "dollars": 2900.0,
+   "median": 2900.0,
+   "first": "2019-11-14",
+   "last": "2019-11-14",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 1
+  },
+  {
+   "descriptor": "Payee 35 (PayPal)",
+   "n": 1,
+   "dollars": 2900.0,
+   "median": 2900.0,
+   "first": "2021-04-13",
+   "last": "2021-04-13",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 36 (PayPal)",
+   "n": 1,
+   "dollars": 2880.0,
+   "median": 2880.0,
+   "first": "2021-08-03",
+   "last": "2021-08-03",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 1
+  },
+  {
+   "descriptor": "Payee 37 (PayPal)",
+   "n": 1,
+   "dollars": 2800.0,
+   "median": 2800.0,
+   "first": "2023-02-15",
+   "last": "2023-02-15",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 38 (PayPal)",
+   "n": 1,
+   "dollars": 1726.43,
+   "median": 1726.43,
+   "first": "2021-04-07",
+   "last": "2021-04-07",
+   "mcc": "HEATING, PLUMBING, AIR CONDITIONING CONT",
+   "other_users": 4
+  },
+  {
+   "descriptor": "Payee 39 (Square)",
+   "n": 1,
+   "dollars": 1555.0,
+   "median": 1555.0,
+   "first": "2021-05-22",
+   "last": "2021-05-22",
+   "mcc": "EATING PLACES, RESTAURANTS",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 40 (Square)",
+   "n": 1,
+   "dollars": 1500.0,
+   "median": 1500.0,
+   "first": "2023-06-06",
+   "last": "2023-06-06",
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "other_users": 0
+  },
+  {
+   "descriptor": "Payee 41 (Square)",
+   "n": 1,
+   "dollars": 824.0,
+   "median": 824.0,
+   "first": "2022-09-07",
+   "last": "2022-09-07",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 3
+  },
+  {
+   "descriptor": "Payee 42 (Square)",
+   "n": 1,
+   "dollars": 500.0,
+   "median": 500.0,
+   "first": "2018-09-21",
+   "last": "2018-09-21",
+   "mcc": "MISCELLANEOUS REPAIR SHOPS AND RELATED S",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 43 (Square)",
+   "n": 1,
+   "dollars": 200.0,
+   "median": 200.0,
+   "first": "2022-04-22",
+   "last": "2022-04-22",
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "other_users": 2
+  },
+  {
+   "descriptor": "Payee 44 (PayPal)",
+   "n": 1,
+   "dollars": 81.75,
+   "median": 81.75,
+   "first": "2018-07-25",
+   "last": "2018-07-25",
+   "mcc": "INDUSTRIAL SUPPLIES NOT ESLEWHERE CLASSI",
+   "other_users": 0
+  }
+ ],
+ "subject_payee_summary": {
+  "payees": 44,
+  "exclusive": 9,
+  "exclusive_dollars": 108893.67
+ },
+ "shared_payees": [
+  {
+   "who": "CH-014",
+   "n": 123,
+   "dollars": 295369.3,
+   "payees": 23
+  },
+  {
+   "who": "CH-013",
+   "n": 85,
+   "dollars": 155582.63,
+   "payees": 10
+  },
+  {
+   "who": "CH-029",
+   "n": 34,
+   "dollars": 93828.7,
+   "payees": 14
+  },
+  {
+   "who": "CH-017",
+   "n": 33,
+   "dollars": 82081.65,
+   "payees": 18
+  },
+  {
+   "who": "CH-012",
+   "n": 30,
+   "dollars": 73582.2,
+   "payees": 16
+  },
+  {
+   "who": "CH-044",
+   "n": 18,
+   "dollars": 42252.25,
+   "payees": 11
+  },
+  {
+   "who": "CH-015",
+   "n": 17,
+   "dollars": 41748.25,
+   "payees": 10
+  },
+  {
+   "who": "CH-008",
+   "n": 10,
+   "dollars": 17816.28,
+   "payees": 4
+  },
+  {
+   "who": "CH-118",
+   "n": 10,
+   "dollars": 17659.79,
+   "payees": 2
+  },
+  {
+   "who": "CH-005",
+   "n": 7,
+   "dollars": 16386.75,
+   "payees": 1
+  },
+  {
+   "who": "CH-022",
+   "n": 1,
+   "dollars": 375.0,
+   "payees": 1
+  }
+ ],
+ "shared_summary": {
+  "payees_shared": 35,
+  "payees_total": 44,
+  "other_cardholders": 10,
+  "other_dollars": 836307.8,
+  "other_n": 367,
+  "other_units": {
+   "Facility Management": 834302.8,
+   "Construction North": 2005.0
+  },
+  "other_near_limit_share": 0.5313351498637602,
+  "other_whole_dollar_share": 0.9155313351498637,
+  "after_n": 1,
+  "after_dollars": 375.0,
+  "by_year": [
+   {
+    "year": 2018,
+    "subject": 90574.59,
+    "others": 75632.25
+   },
+   {
+    "year": 2019,
+    "subject": 164257.19,
+    "others": 120515.88
+   },
+   {
+    "year": 2020,
+    "subject": 168126.52,
+    "others": 167387.12
+   },
+   {
+    "year": 2021,
+    "subject": 250181.68,
+    "others": 265604.64
+   },
+   {
+    "year": 2022,
+    "subject": 223943.0,
+    "others": 149701.6
+   },
+   {
+    "year": 2023,
+    "subject": 129544.0,
+    "others": 57466.31
+   },
+   {
+    "year": 2025,
+    "subject": 0.0,
+    "others": 375.0
+   }
+  ]
+ },
+ "fac_by_unit": [
+  {
+   "unit": "Facility Management",
+   "fac": 3202498.4,
+   "spend": 9122585.46,
+   "cardholders": 29
+  },
+  {
+   "unit": "Market Promotion Services",
+   "fac": 201719.86,
+   "spend": 1162786.64,
+   "cardholders": 6
+  },
+  {
+   "unit": "Server/Host Operations",
+   "fac": 200503.69,
+   "spend": 1157406.21,
+   "cardholders": 14
+  },
+  {
+   "unit": "Substation Construction & Main",
+   "fac": 193880.65,
+   "spend": 2772303.61,
+   "cardholders": 15
+  },
+  {
+   "unit": "Advertising-Conservation",
+   "fac": 148154.96,
+   "spend": 868843.62,
+   "cardholders": 9
+  },
+  {
+   "unit": "Safety Management",
+   "fac": 97569.09,
+   "spend": 586611.18,
+   "cardholders": 6
+  },
+  {
+   "unit": "Network Construction",
+   "fac": 87724.84,
+   "spend": 933382.81,
+   "cardholders": 7
+  },
+  {
+   "unit": "Kramer Warehouse",
+   "fac": 69357.28,
+   "spend": 4767701.12,
+   "cardholders": 4
+  }
+ ],
+ "fac_total_period": 4852728.91,
+ "subject_mcc": [
+  {
+   "mcc": "GENERAL CONTRACTORS-RESIDENTIAL",
+   "n": 130,
+   "dollars": 357571.79
+  },
+  {
+   "mcc": "CLEANING AND MAINTENANCE, JANITORIAL SER",
+   "n": 99,
+   "dollars": 267153.0
+  },
+  {
+   "mcc": "PROFESSIONAL SERVICES NOT ELSEWHERE CLAS",
+   "n": 50,
+   "dollars": 135183.76
+  },
+  {
+   "mcc": "MISCELLANEOUS PERSONAL SERVICES",
+   "n": 38,
+   "dollars": 106017.0
+  },
+  {
+   "mcc": "TELECOMMUNICATION EQUIPMENT INCLUDING TE",
+   "n": 31,
+   "dollars": 84776.0
+  },
+  {
+   "mcc": "ADVERTISING SERVICES",
+   "n": 17,
+   "dollars": 40515.0
+  },
+  {
+   "mcc": "PAINTS,VARNISHES AND SUPPLIES",
+   "n": 6,
+   "dollars": 14120.0
+  },
+  {
+   "mcc": "CARPENTRY",
+   "n": 4,
+   "dollars": 9250.0
+  }
+ ],
+ "subject_object": [
+  {
+   "object": "maintenance-buildings",
+   "n": 363,
+   "dollars": 973985.23
+  },
+  {
+   "object": "Building material",
+   "n": 6,
+   "dollars": 16840.0
+  },
+  {
+   "object": "Street/traff signs/mrkr/pos",
+   "n": 3,
+   "dollars": 8380.0
+  },
+  {
+   "object": "Maintenance grounds",
+   "n": 1,
+   "dollars": 2900.0
+  },
+  {
+   "object": "Sand/gravel/stone",
+   "n": 1,
+   "dollars": 2800.0
+  }
+ ],
+ "subject_monthly": [
+  {
+   "month": "2018-01",
+   "total": 21084.07,
+   "fac": 12650.0
+  },
+  {
+   "month": "2018-02",
+   "total": 5693.12,
+   "fac": 650.0
+  },
+  {
+   "month": "2018-03",
+   "total": 18986.23,
+   "fac": 14913.869999999999
+  },
+  {
+   "month": "2018-04",
+   "total": 24289.97,
+   "fac": 9790.0
+  },
+  {
+   "month": "2018-05",
+   "total": 17947.37,
+   "fac": 7680.0
+  },
+  {
+   "month": "2018-06",
+   "total": 9809.31,
+   "fac": 0.0
+  },
+  {
+   "month": "2018-07",
+   "total": 8047.08,
+   "fac": 5731.75
+  },
+  {
+   "month": "2018-08",
+   "total": 14562.529999999999,
+   "fac": 5880.0
+  },
+  {
+   "month": "2018-09",
+   "total": 16900.92,
+   "fac": 8600.0
+  },
+  {
+   "month": "2018-10",
+   "total": 22290.29,
+   "fac": 9000.0
+  },
+  {
+   "month": "2018-11",
+   "total": 17887.95,
+   "fac": 8200.0
+  },
+  {
+   "month": "2018-12",
+   "total": 10085.720000000001,
+   "fac": 7478.97
+  },
+  {
+   "month": "2019-01",
+   "total": 23587.17,
+   "fac": 14079.59
+  },
+  {
+   "month": "2019-02",
+   "total": 24845.760000000002,
+   "fac": 13752.0
+  },
+  {
+   "month": "2019-03",
+   "total": 18202.26,
+   "fac": 11214.82
+  },
+  {
+   "month": "2019-04",
+   "total": 23413.27,
+   "fac": 13610.0
+  },
+  {
+   "month": "2019-05",
+   "total": 21842.68,
+   "fac": 17892.89
+  },
+  {
+   "month": "2019-06",
+   "total": 13448.75,
+   "fac": 8167.889999999999
+  },
+  {
+   "month": "2019-07",
+   "total": 18052.33,
+   "fac": 16650.0
+  },
+  {
+   "month": "2019-08",
+   "total": 22364.52,
+   "fac": 14280.0
+  },
+  {
+   "month": "2019-09",
+   "total": 24324.17,
+   "fac": 19870.0
+  },
+  {
+   "month": "2019-10",
+   "total": 13698.17,
+   "fac": 12440.0
+  },
+  {
+   "month": "2019-11",
+   "total": 18151.81,
+   "fac": 13800.0
+  },
+  {
+   "month": "2019-12",
+   "total": 15060.94,
+   "fac": 8500.0
+  },
+  {
+   "month": "2020-01",
+   "total": 20003.4,
+   "fac": 10860.0
+  },
+  {
+   "month": "2020-02",
+   "total": 22206.1,
+   "fac": 8340.0
+  },
+  {
+   "month": "2020-03",
+   "total": 15744.0,
+   "fac": 9135.619999999999
+  },
+  {
+   "month": "2020-04",
+   "total": 16537.87,
+   "fac": 9754.23
+  },
+  {
+   "month": "2020-05",
+   "total": 21070.36,
+   "fac": 14200.0
+  },
+  {
+   "month": "2020-06",
+   "total": 19608.61,
+   "fac": 14460.0
+  },
+  {
+   "month": "2020-07",
+   "total": 19466.760000000002,
+   "fac": 14505.67
+  },
+  {
+   "month": "2020-08",
+   "total": 14784.869999999999,
+   "fac": 11490.0
+  },
+  {
+   "month": "2020-09",
+   "total": 22965.91,
+   "fac": 22780.0
+  },
+  {
+   "month": "2020-10",
+   "total": 19601.71,
+   "fac": 18860.0
+  },
+  {
+   "month": "2020-11",
+   "total": 15090.5,
+   "fac": 13726.0
+  },
+  {
+   "month": "2020-12",
+   "total": 21188.43,
+   "fac": 20015.0
+  },
+  {
+   "month": "2021-01",
+   "total": 13883.23,
+   "fac": 10889.25
+  },
+  {
+   "month": "2021-02",
+   "total": 23441.45,
+   "fac": 22098.0
+  },
+  {
+   "month": "2021-03",
+   "total": 23847.18,
+   "fac": 20192.0
+  },
+  {
+   "month": "2021-04",
+   "total": 21374.68,
+   "fac": 21013.43
+  },
+  {
+   "month": "2021-05",
+   "total": 22256.63,
+   "fac": 21295.0
+  },
+  {
+   "month": "2021-06",
+   "total": 24500.52,
+   "fac": 22105.0
+  },
+  {
+   "month": "2021-07",
+   "total": 24875.62,
+   "fac": 22770.0
+  },
+  {
+   "month": "2021-08",
+   "total": 24961.68,
+   "fac": 23005.0
+  },
+  {
+   "month": "2021-09",
+   "total": 22925.68,
+   "fac": 17479.0
+  },
+  {
+   "month": "2021-10",
+   "total": 24764.22,
+   "fac": 21550.0
+  },
+  {
+   "month": "2021-11",
+   "total": 23491.08,
+   "fac": 23065.0
+  },
+  {
+   "month": "2021-12",
+   "total": 24821.8,
+   "fac": 24720.0
+  },
+  {
+   "month": "2022-01",
+   "total": 23942.47,
+   "fac": 19990.0
+  },
+  {
+   "month": "2022-02",
+   "total": 22250.42,
+   "fac": 20060.0
+  },
+  {
+   "month": "2022-03",
+   "total": 20310.489999999998,
+   "fac": 17260.0
+  },
+  {
+   "month": "2022-04",
+   "total": 23131.14,
+   "fac": 20360.0
+  },
+  {
+   "month": "2022-05",
+   "total": 23032.38,
+   "fac": 20360.0
+  },
+  {
+   "month": "2022-06",
+   "total": 23822.76,
+   "fac": 17580.0
+  },
+  {
+   "month": "2022-07",
+   "total": 21037.239999999998,
+   "fac": 16465.0
+  },
+  {
+   "month": "2022-08",
+   "total": 19594.29,
+   "fac": 17320.0
+  },
+  {
+   "month": "2022-09",
+   "total": 24614.22,
+   "fac": 22351.0
+  },
+  {
+   "month": "2022-10",
+   "total": 22712.98,
+   "fac": 20467.0
+  },
+  {
+   "month": "2022-11",
+   "total": 11655.51,
+   "fac": 11570.0
+  },
+  {
+   "month": "2022-12",
+   "total": 22269.18,
+   "fac": 20160.0
+  },
+  {
+   "month": "2023-01",
+   "total": 15743.98,
+   "fac": 14680.0
+  },
+  {
+   "month": "2023-02",
+   "total": 21711.94,
+   "fac": 14434.0
+  },
+  {
+   "month": "2023-03",
+   "total": 21436.079999999998,
+   "fac": 19970.0
+  },
+  {
+   "month": "2023-04",
+   "total": 5948.36,
+   "fac": 5630.0
+  },
+  {
+   "month": "2023-05",
+   "total": 20150.03,
+   "fac": 19543.0
+  },
+  {
+   "month": "2023-06",
+   "total": 19287.65,
+   "fac": 18927.0
+  },
+  {
+   "month": "2023-07",
+   "total": 22124.75,
+   "fac": 14720.0
+  },
+  {
+   "month": "2023-08",
+   "total": 22323.1,
+   "fac": 21640.0
+  },
+  {
+   "month": "2023-09",
+   "total": 41.96,
+   "fac": 0.0
+  }
+ ],
+ "subject_stacked": {
+  "days": 65,
+  "max_n": 4,
+  "max_dollars": 11680.0,
+  "max_day": "2020-09-26"
+ },
+ "legacy": {
+  "subject_lines": 81,
+  "subject_spend": 90353.95,
+  "subject_fac": 55718.5,
+  "subject_fac_n": 29,
+  "periods": [
+   201712,
+   201802,
+   201803
+  ],
+  "cardholders": 96,
+  "fac_rank": 1,
+  "spend_rank": 3,
+  "fac_total_all": 169615.53,
+  "fac_share_by_fy": {
+   "2013": 0.013,
+   "2014": 0.0173,
+   "2015": 0.0226,
+   "2016": 0.0452,
+   "2017": 0.0878,
+   "2018": 0.1421
+  }
+ },
+ "fac_by_year": [
+  {
+   "year": 2018,
+   "subject": 90574.59,
+   "others": 468526.22,
+   "total_spend": 6712632.24
+  },
+  {
+   "year": 2019,
+   "subject": 164257.19,
+   "others": 788506.96,
+   "total_spend": 7828750.66
+  },
+  {
+   "year": 2020,
+   "subject": 168126.52,
+   "others": 692625.59,
+   "total_spend": 6259872.17
+  },
+  {
+   "year": 2021,
+   "subject": 250181.68,
+   "others": 792004.64,
+   "total_spend": 6897099.83
+  },
+  {
+   "year": 2022,
+   "subject": 223943.0,
+   "others": 735078.75,
+   "total_spend": 7591666.95
+  },
+  {
+   "year": 2023,
+   "subject": 129544.0,
+   "others": 416697.91000000003,
+   "total_spend": 8296471.9
+  },
+  {
+   "year": 2024,
+   "subject": 0.0,
+   "others": 240008.72999999998,
+   "total_spend": 7932102.31
+  },
+  {
+   "year": 2025,
+   "subject": 0.0,
+   "others": 179529.02000000002,
+   "total_spend": 7722760.02
+  },
+  {
+   "year": 2026,
+   "subject": 0.0,
+   "others": 137272.97999999998,
+   "total_spend": 5545467.9799999995
+  }
+ ],
+ "approvals": {
+  "managers": 71,
+  "median_within_10s": 0.8009049773755657,
+  "subject_managers": [
+   {
+    "manager": "MGR-194",
+    "n_subject": 791,
+    "n_all": 6679,
+    "cardholders": 11,
+    "within_10s": 0.07141787692768378,
+    "median_gap": 18.0,
+    "median_lag": 18.0,
+    "rank_within_10s": 67
+   },
+   {
+    "manager": "MGR-040",
+    "n_subject": 160,
+    "n_all": 2887,
+    "cardholders": 18,
+    "within_10s": 0.8933148597159681,
+    "median_gap": 0.0,
+    "median_lag": 15.0,
+    "rank_within_10s": 16
+   },
+   {
+    "manager": "MGR-051",
+    "n_subject": 17,
+    "n_all": null,
+    "cardholders": null,
+    "within_10s": null,
+    "median_gap": null,
+    "median_lag": null,
+    "rank_within_10s": null
+   }
+  ],
+  "subject_no_signoff": 12
+ },
+ "queue": [
+  {
+   "min_flags": 0,
+   "n": 74963,
+   "dollars": 41672376.55,
+   "cardholders": 369,
+   "subject_n": 973,
+   "subject_dollars": 1335129.61,
+   "subject_fac_dollars": 1026626.9799999999
+  },
+  {
+   "min_flags": 1,
+   "n": 35252,
+   "dollars": 26961980.33,
+   "cardholders": 359,
+   "subject_n": 567,
+   "subject_dollars": 1173082.01,
+   "subject_fac_dollars": 1026626.9799999999
+  },
+  {
+   "min_flags": 2,
+   "n": 7927,
+   "dollars": 10325392.89,
+   "cardholders": 288,
+   "subject_n": 408,
+   "subject_dollars": 1076606.71,
+   "subject_fac_dollars": 1013080.71
+  },
+  {
+   "min_flags": 3,
+   "n": 1615,
+   "dollars": 3124012.65,
+   "cardholders": 161,
+   "subject_n": 330,
+   "subject_dollars": 928670.9199999999,
+   "subject_fac_dollars": 914635.9199999999
+  },
+  {
+   "min_flags": 4,
+   "n": 156,
+   "dollars": 422868.0,
+   "cardholders": 25,
+   "subject_n": 83,
+   "subject_dollars": 234647.0,
+   "subject_fac_dollars": 234647.0
+  },
+  {
+   "min_flags": 5,
+   "n": 11,
+   "dollars": 31767.0,
+   "cardholders": 1,
+   "subject_n": 11,
+   "subject_dollars": 31767.0,
+   "subject_fac_dollars": 31767.0
+  }
+ ],
+ "queue_flags": [
+  "Amount at 90-100% of the $3,000 limit",
+  "Whole-dollar amount",
+  "Paid through PayPal or Square",
+  "Payee used by no other cardholder",
+  "Purchased on a weekend"
+ ],
+ "queue4_by_cardholder": [
+  {
+   "who": "Ybarra",
+   "n": 83
+  },
+  {
+   "who": "CH-008",
+   "n": 17
+  },
+  {
+   "who": "CH-014",
+   "n": 15
+  },
+  {
+   "who": "CH-013",
+   "n": 7
+  },
+  {
+   "who": "CH-017",
+   "n": 5
+  },
+  {
+   "who": "CH-005",
+   "n": 4
+  },
+  {
+   "who": "CH-053",
+   "n": 4
+  },
+  {
+   "who": "CH-044",
+   "n": 2
+  }
+ ]
+}
